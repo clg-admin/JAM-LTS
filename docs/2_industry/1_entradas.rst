@@ -1,51 +1,44 @@
 ===================================
-Datos de entrada del modelo
+Input Data
 ===================================
 
-En la Tabla 7 se presentan las fuentes de información utilizadas para la satisfacción 
-de datos de los parámetros del modelo del sector Energía.
+**Table 6**  presents the information sources used to provide data for the parameters of the Transport sector model.
 
-.. list-table:: Tabla 7: Fuentes de información para parametrizar el sector Energía
-   :align: center
+.. list-table:: **Table 6.** Data Sources for Industry and IPPU Sector
+   :widths: 25 75
    :header-rows: 1
 
-   * - Dato/Supuesto
-     - Detalle
-     - Fuente
-
-   * - Demandas energéticas
-     - Datos históricos (2010-2023) del Balance Energético Nacional y tasas de crecimiento 
-       de tasas de crecimiento anuales utilizadas en el PLANMICC
-     - (MAATE, n.d.)
-
-   * - Generación eléctrica
-     - Datos históricos (2010 -2022) de las estadísticas del sector eléctrico por ARCONEL. 
-       Para el 2023 hasta el 2035 se sigue una generación eléctrica acorde a las iniciativas 
-       de cada escenario de mitigación.
-     - (Arconel, 2022)
-
-   * - Capacidad instalada
-     - Datos históricos (2010 -2022) de las estadísticas del sector eléctrico por ARCONEL
-     - (Arconel, 2022)
-
-   * - Producción local de crudo y gas natural
-     - Trayectoria del PLANMICC
-     - (MAATE, n.d.)
-
-   * - Producción de refinerías
-     - Datos históricos (2010-2023) del Balance Energético Nacional, proyecciones basadas 
-       en promedios de refinación histórica
-     - (MEM, 2023)
-
-   * - Factores de emisión
-     - Datos de actividad usados para la construcción de inventarios nacionales de gases de 
-       efecto invernadero serie 1994-2022 (NIR o INGEI en español).
-     - (MAATE, n.d.)
-
-   * - Factores de planta
-     - Datos históricos (2010 -2017) del Anuario estadístico de ARCONEL, proyecciones 
-       2018-2035 basadas en datos del PLANMICC
-     - (MAATE, n.d.)
-
-Para acceder a la versión completa de los datos de entrada del sector, consulte el archivo Energy en: https://github.com/clg-admin/ECU_NDC/tree/main/Data
-  
+   * - **Data**
+     - **Source**
+   * - Energy consumption by industry and fuel [PJ]
+     - National Energy Balances from MSET (MSET, 2023) and Economic and Social Survey Jamaica 2022 (PIOJ, 2022b).
+   * - Fuel prices [MUSD/PJ]
+     - 2018 Jamaica Integrated Resource for Diesel, Fuel Oil and Natural Gas (MSET, 2020).  
+       Petroleum Prices For Selected Products from MSET for Gasoline, LPG and Kerosene (MSET, 2018b).  
+       World Energy Outlook for crude oil and coal (IEA, 2023).  
+       Petroleum Coke Sample Report for pet coke (Argus Media, 2023).
+   * - Emission factors
+     - Default values reported in the IPCC Guidelines, volume 2, chapter 2 Stationary Combustion (Intergovernmental Panel on Climate Change, 2006).
+   * - Cement production
+     - Developing Jamaica’s long-term strategy for low emission and climate resilient development (Vivid Economics & World Bank Group, 2021a).  
+       Jamaica’s long-term climate change strategy recommendations (Vivid Economics & World Bank Group, 2021b).
+   * - Clinker-to-cement ratio
+     - Developing Jamaica’s long-term strategy for low emission and climate resilient development (Vivid Economics & World Bank Group, 2021a).  
+       Jamaica’s long-term climate change strategy recommendations (Vivid Economics & World Bank Group, 2021b).
+   * - Emission factor of Clinker production
+     - CO2 emissions from Cement Production (IPCC, 2019).
+   * - Investment, fixed and variable costs of clinker/cement production
+     - Techno-economic analysis of calcium looping processes for low CO2 emission cement plants (De Lena et al., 2019).
+   * - Additional costs of reduce Clinker-to-cement ratio
+     - Cost-Efficient Decarbonization of Portland Cement Production (Glenk et al., 2023).
+   * - HFCs consumption
+     - Developing Jamaica’s long-term strategy for low emission and climate resilient development (Vivid Economics & World Bank Group, 2021a).  
+       Jamaica’s long-term climate change strategy recommendations (Vivid Economics & World Bank Group, 2021b).
+   * - Lime production
+     - Developing Jamaica’s long-term strategy for low emission and climate resilient development (Vivid Economics & World Bank Group, 2021a).  
+       Jamaica’s long-term climate change strategy recommendations (Vivid Economics & World Bank Group, 2021b).
+   * - Emissions from lubricant oxidation
+     - Developing Jamaica’s long-term strategy for low emission and climate resilient development (Vivid Economics & World Bank Group, 2021a).  
+       Jamaica’s long-term climate change strategy recommendations (Vivid Economics & World Bank Group, 2021b).
+   * - Costs of energy efficiency programs in industry
+     - Jamaica's Climate Action Enhancement Package (CAEP) Programme Synthesis Report (MEGJC, 2022).

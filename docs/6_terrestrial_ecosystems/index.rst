@@ -1,12 +1,11 @@
 ===================================================
-Modelo del Sector Energía
+Terrestrial Ecosystems
 ===================================================
 
 .. toctree::
    :maxdepth: 2
 
-   Estructura del modelo <0_estructura>
-   Datos de Entrada <1_entradas>
-   Escenarios <2_escenarios>
-   Resultados <3_resultados>
-   Referencias <4_referencias>
+   Specific Adaptation Strategies <0_estructura>
+   Cost and Benefit Data <1_entradas>
+   Results <3_resultados>
+   References <4_referencias>

@@ -1,12 +1,16 @@
 ---------------------
-Resultados
+Results
 ---------------------
 
-Las emisiones resultantes de CO2e del sector Energía se presentan en la Figura 3 para los 3 escenarios estudiados. En color gris se ilustra el escenario Tendencial de la 1ra NDC, el escenario Incondicional de la 2da NDC corresponde a la trayectoria color naranja y el escenario Incondicional y Condicional de la 2da NDC a la trayectoria verde. En la Figura 4, la trayectoria verde queda por debajo de la trayectoria naranja, debido a que hay una mayor disminución de emisiones. 
+**Figure 4** illustrates how the transport sector is represented in the model,
+using key elements like fleet composition, freight and passengers demands and energy consumptions.
 
-.. figure:: ../_static/_images/energia_resultados.png
-   :alt: Escenarios del sector Energía
+.. figure:: ../_static/_images/4_energia.png
+   :alt: Models used on the cost and benefits analysis
    :width: 100%
    :align: center
 
-   Figura 3. Emisiones en CO2e del sector Energía por año y escenario.
+   **Figure 4:** Preliminary results for the Electricity and Buildings sector: (a)
+   costs of the BAU and LTS scenarios, and (b) benefits of implementing the LTS -cost
+   difference between the BAU and LTS scenarios-. 
+

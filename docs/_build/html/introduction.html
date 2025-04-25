@@ -6,7 +6,7 @@
   <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>1. Introducción &mdash; JAM-LTS 2025 documentation</title>
+  <title>1. Introduction &mdash; JAM-LTS 2025 documentation</title>
       <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=b86133f3" />
       <link rel="stylesheet" type="text/css" href="_static/css/theme.css?v=e59714d7" />
 
@@ -19,7 +19,7 @@
     <script src="_static/js/theme.js"></script>
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="next" title="2. Metodología" href="methodology.html" />
+    <link rel="next" title="2. Methodology" href="methodology.html" />
     <link rel="prev" title="JAM-LTS Documentation" href="index.html" /> 
 </head>
 
@@ -45,7 +45,7 @@
               <p class="caption" role="heading"><span class="caption-text">Documentation Structure</span></p>
 <ul class="current">
 <li class="toctree-l1 current"><a class="current reference internal" href="#">1. Introduction</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#estructura-de-carpetas">1.1. Estructura de Carpetas</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#folder-structure">1.1. Folder Structure</a></li>
 </ul>
 </li>
 <li class="toctree-l1"><a class="reference internal" href="methodology.html">2. Methodology</a></li>
@@ -82,7 +82,7 @@
           <div role="navigation" aria-label="Page navigation">
   <ul class="wy-breadcrumbs">
       <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
-      <li class="breadcrumb-item active"><span class="section-number">1. </span>Introducción</li>
+      <li class="breadcrumb-item active"><span class="section-number">1. </span>Introduction</li>
       <li class="wy-breadcrumbs-aside">
             <a href="_sources/introduction.rst.txt" rel="nofollow"> View page source</a>
       </li>
@@ -92,39 +92,44 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
              
-  <section id="introduccion">
-<h1><span class="section-number">1. </span>Introducción<a class="headerlink" href="#introduccion" title="Link to this heading"></a></h1>
-<p>Esta documentación describe el modelo OSeMOSYS-ECU, desarrollado en
-colaboración con el <strong>PNUD y FAO</strong> para evaluar las emisiones de gases de
-efecto invernadero (GEI) en Ecuador entre 2010 y 2035.</p>
-<p>El modelo permite:
-- Evaluar las trayectorias de emisiones bajo diferentes escenarios.
-- Comparar el escenario tendencial con estrategias de mitigación.
-- Desagregar resultados por sector, tipo de gas y año.</p>
-<p>El modelado se basa en <strong>OSeMOSYS</strong> y amplía los desarrollos del <strong>PLANMICC</strong>.</p>
-<section id="estructura-de-carpetas">
-<h2><span class="section-number">1.1. </span>Estructura de Carpetas<a class="headerlink" href="#estructura-de-carpetas" title="Link to this heading"></a></h2>
-<p>Para facilitar la navegación, la documentación sigue la siguiente estructura
-de archivos:</p>
+  <section id="introduction">
+<h1><span class="section-number">1. </span>Introduction<a class="headerlink" href="#introduction" title="Link to this heading"></a></h1>
+<p>This documentation is based on the development process of Jamaica’s Long-Term Emission Reduction and Climate Resilient Strategy (LTS),
+led by the Ministry of Economic Growth and Job Creation in collaboration with the 2050 Pathways Platform.
+The LTS sets Jamaica’s pathway to net zero emissions and increased climate resilience by 2050. This project supports decision-making by
+evaluating the costs and benefits of the LTS, addressing social, economic, and environmental impacts, and identifying key opportunities and
+challenges for its implementation.</p>
+<section id="folder-structure">
+<h2><span class="section-number">1.1. </span>Folder Structure<a class="headerlink" href="#folder-structure" title="Link to this heading"></a></h2>
+<p>To facilitate navigation, the documentation follows the following file structure:</p>
 <div class="highlight-none notranslate"><div class="highlight"><pre><span></span>docs/
-│── index.rst               # Página principal
-│── introduccion.rst         # Introducción del modelo
-│── metodologia.rst          # Metodología general
-│── energia/                 # Sector Energía
+│── index.rst                  # Main index page
+│── introduction.rst           # Introduction to the model
+│── methodology.rst            # General methodology
+│── national_results.rst       # National results overview
+│── model_use.rst              # How to use the model
+│── github_navigation.rst      # GitHub navigation guide
+│── license.rst                # Licensing information
+│── authors.rst                # Credits and authors
+│
+├── 0_electricity_buildings/   # Electricity and Buildings sector
 │   ├── 0_estructura.rst
 │   ├── 1_entradas.rst
 │   ├── 2_escenarios.rst
 │   ├── 3_resultados.rst
 │   ├── 4_referencias.rst
-│── residuos/                # Sector Residuos
-│── procesos/                # Sector Procesos Industriales
-│── agricultura/              # Sector Agricultura
-│── uscuss/                   # Sector Uso del Suelo y Cambio de Uso del Suelo
-│── license.rst               # Información sobre la licencia
-│── authors.rst               # Créditos y autores
-│── source/                   # Carpeta de recursos
-│   ├── _static/              # Recursos estáticos (imágenes, gráficos)
-│   │   ├── _images/          # Imágenes utilizadas en la documentación
+│
+├── 1_transport/               # Transport sector
+├── 2_industry/                # Industry sector
+├── 3_waste/                   # Waste sector
+├── 4_land_use_forestry_agriculture/  # Land-use change, forestry, and agriculture
+├── 5_food_security/           # Food Security sector
+├── 6_terrestrial_ecosystems/  # Terrestrial Ecosystems
+├── 7_human_settlements_infrastructure/  # Human Settlements and Critical Infrastructure
+├── 8_tourism/                 # Tourism sector
+├── 9_coastal_areas/           # Coastal Areas
+├── 10_culture_heritage/       # Culture and Heritage
+├── 11_population_health/      # Population and Health
 </pre></div>
 </div>
 </section>
@@ -135,7 +140,7 @@ de archivos:</p>
           </div>
           <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
         <a href="index.html" class="btn btn-neutral float-left" title="JAM-LTS Documentation" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
-        <a href="methodology.html" class="btn btn-neutral float-right" title="2. Metodología" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="methodology.html" class="btn btn-neutral float-right" title="2. Methodology" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
     </div>
 
   <hr/>

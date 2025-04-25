@@ -7,8 +7,10 @@
 JAM-LTS Documentation
 ===================================================
 
-Modelación para la creación de la 2050 Long-term Emission Reduction and Climate Resilient Strategy (LTS). 
-**En Desarrollo**
+The 2050 Long-term Emission Reduction and Climate Resilient Strategy (LTS) outlines Jamaica’s pathway to a low-carbon,
+resilient economy by 2050, in alignment with the Paris Agreement. This strategy was developed through detailed modeling
+of mitigation and adaptation actions. The project focuses on assessing the costs and benefits of the LTS to support informed
+decision-making and ensure alignment with national development priorities.
 
 
 ==================================

@@ -1,51 +1,28 @@
 ===================================
-Datos de entrada del modelo
+Input Data
 ===================================
 
-En la Tabla 7 se presentan las fuentes de información utilizadas para la satisfacción 
-de datos de los parámetros del modelo del sector Energía.
+**Table 4**  presents the information sources used to provide data for the parameters of the Industry sector model.
 
-.. list-table:: Tabla 7: Fuentes de información para parametrizar el sector Energía
-   :align: center
+.. list-table:: **Table 4.** Transport Sector Data Sources
+   :widths: 30 70
    :header-rows: 1
 
-   * - Dato/Supuesto
-     - Detalle
-     - Fuente
-
-   * - Demandas energéticas
-     - Datos históricos (2010-2023) del Balance Energético Nacional y tasas de crecimiento 
-       de tasas de crecimiento anuales utilizadas en el PLANMICC
-     - (MAATE, n.d.)
-
-   * - Generación eléctrica
-     - Datos históricos (2010 -2022) de las estadísticas del sector eléctrico por ARCONEL. 
-       Para el 2023 hasta el 2035 se sigue una generación eléctrica acorde a las iniciativas 
-       de cada escenario de mitigación.
-     - (Arconel, 2022)
-
-   * - Capacidad instalada
-     - Datos históricos (2010 -2022) de las estadísticas del sector eléctrico por ARCONEL
-     - (Arconel, 2022)
-
-   * - Producción local de crudo y gas natural
-     - Trayectoria del PLANMICC
-     - (MAATE, n.d.)
-
-   * - Producción de refinerías
-     - Datos históricos (2010-2023) del Balance Energético Nacional, proyecciones basadas 
-       en promedios de refinación histórica
-     - (MEM, 2023)
-
-   * - Factores de emisión
-     - Datos de actividad usados para la construcción de inventarios nacionales de gases de 
-       efecto invernadero serie 1994-2022 (NIR o INGEI en español).
-     - (MAATE, n.d.)
-
-   * - Factores de planta
-     - Datos históricos (2010 -2017) del Anuario estadístico de ARCONEL, proyecciones 
-       2018-2035 basadas en datos del PLANMICC
-     - (MAATE, n.d.)
-
-Para acceder a la versión completa de los datos de entrada del sector, consulte el archivo Energy en: https://github.com/clg-admin/ECU_NDC/tree/main/Data
-  
+   * - **Data**
+     - **Source**
+   * - Fleet composition in the reference year (2017) and importation data to estimate the fleet composition in the calibration year (2021).
+     - Strategic Framework for Electric Mobility (Inter American Development Bank, 2022). Importation data from IRF World Road Statistics Datawarehouse (International Road Federation, 2024).
+   * - Transport technologies efficiency.
+     - Strategic Framework for Electric Mobility (Inter American Development Bank, 2022).
+   * - Travelled distance per technology.
+     - Adapted from the “Plan Estratégico Nacional de Movilidad Eléctrica de República Dominicana” (INTRANT, 2020).
+   * - Percentage of fuel consumption per technology.
+     - Developing Jamaica’s long-term strategy for low emission and climate resilient development (Vivid Economics and the World Bank, 2021); Jamaica’s long-term climate change strategy recommendations (Vivid Economics and the World Bank, 2021).
+   * - Relation between the number of public charging stations and electric vehicles.
+     - Emerging best practices for electric vehicle charging infrastructure (Hall, D & Lutsey, N, 2017).
+   * - Costs.
+     - Strategic Framework for Electric Mobility (Inter American Development Bank, 2022).
+   * - Local health externalities.
+     - Global Fossil Fuel Subsidies Remain Large: An Update Based on Country Level Estimate (International Monetary Fund - IMF, Coady et al., 2019).
+   * - Transport emission factors.
+     - Default values reported in the IPCC Guidelines, volume 2, chapter 2 Stationary Combustion (Intergovernmental Panel on Climate Change, 2006, p. 2).

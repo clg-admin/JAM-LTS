@@ -1,51 +1,42 @@
 ===================================
-Datos de entrada del modelo
+Input Data
 ===================================
 
-En la Tabla 7 se presentan las fuentes de información utilizadas para la satisfacción 
-de datos de los parámetros del modelo del sector Energía.
+**Table 2**  presents the information sources used to provide data for the parameters of the Energy sector model.
 
-.. list-table:: Tabla 7: Fuentes de información para parametrizar el sector Energía
-   :align: center
+.. list-table:: **Table 2.** Data Sources for Energy Sector Model
+   :widths: 30 70
    :header-rows: 1
 
-   * - Dato/Supuesto
-     - Detalle
-     - Fuente
+   * - **Data**
+     - **Source**
+   * - Fiscal Year Value Added by Industry At Constant Prices
+     - Statistical Institute of Jamaica (StatInJa, 2024)
+   * - Electric demand growth
+     - 2018 Jamaica Integrated Resource Plan, Fig 22, Reference Case (MSET, 2020)
+   * - Installed capacity by technology [GW]
+     - 2018 Jamaica Integrated Resource Plan Fig 64 and 65 (MSET, 2020), complemented with SieOLDADE reports (SieLAC-OLADE, 2022b)
+   * - Electric generation by technology [GWh]
+     - An Overview of Jamaica's Electricity Sector from MSET (MSET, 2018a), complemented with SieOLDADE reports (SieLAC-OLADE, 2022a)
+   * - Investment costs [MUSD/GW], operational cost [MUSD/GWh], and operational life of power plants [years]
+     - 2018 Jamaica Integrated Resource (MSET, 2020), complemented with NREL 2023 Annual Technology Baseline (NREL, 2023)
+   * - New planned capacity and retirements [GW]
+     - 2018 Jamaica Integrated Resource, Table 3, Implementation Case and Appendix D (MSET, 2020)
+   * - Transmission and distribution Investment costs [MUSD/PJ] and operational cost [MUSD/PJ]
+     - Annual Tariff Adjustment from JPS (JPS, 2015, 2022, 2023)
+   * - Transmission and distribution losses [%]
+     - Estimated with SieOLDADE reports (SieLAC-OLADE, 2022a)
+   * - Energy consumption by sector and fuel [PJ]
+     - National Energy Balances from MSET (MSET, 2023)
 
-   * - Demandas energéticas
-     - Datos históricos (2010-2023) del Balance Energético Nacional y tasas de crecimiento 
-       de tasas de crecimiento anuales utilizadas en el PLANMICC
-     - (MAATE, n.d.)
+       Economic and Social Survey Jamaica 2022 (PIOJ, 2022b)
+   * - Fuel prices [MUSD/PJ]
+     - 2018 Jamaica Integrated Resource for Diesel, Fuel Oil, and Natural Gas (MSET, 2020)
 
-   * - Generación eléctrica
-     - Datos históricos (2010 -2022) de las estadísticas del sector eléctrico por ARCONEL. 
-       Para el 2023 hasta el 2035 se sigue una generación eléctrica acorde a las iniciativas 
-       de cada escenario de mitigación.
-     - (Arconel, 2022)
+       Petroleum Prices For Selected Products from MSET for Gasoline, LPG, and Kerosene (MSET, 2018b)
 
-   * - Capacidad instalada
-     - Datos históricos (2010 -2022) de las estadísticas del sector eléctrico por ARCONEL
-     - (Arconel, 2022)
+       World Energy Outlook for crude oil and coal (IEA, 2023)
 
-   * - Producción local de crudo y gas natural
-     - Trayectoria del PLANMICC
-     - (MAATE, n.d.)
-
-   * - Producción de refinerías
-     - Datos históricos (2010-2023) del Balance Energético Nacional, proyecciones basadas 
-       en promedios de refinación histórica
-     - (MEM, 2023)
-
-   * - Factores de emisión
-     - Datos de actividad usados para la construcción de inventarios nacionales de gases de 
-       efecto invernadero serie 1994-2022 (NIR o INGEI en español).
-     - (MAATE, n.d.)
-
-   * - Factores de planta
-     - Datos históricos (2010 -2017) del Anuario estadístico de ARCONEL, proyecciones 
-       2018-2035 basadas en datos del PLANMICC
-     - (MAATE, n.d.)
-
-Para acceder a la versión completa de los datos de entrada del sector, consulte el archivo Energy en: https://github.com/clg-admin/ECU_NDC/tree/main/Data
-  
+       Petroleum Coke Sample Report for pet coke (Argus Media, 2023)
+   * - Emission factors
+     - Default values reported in the IPCC Guidelines, volume 2, chapter 2 Stationary Combustion (Intergovernmental Panel on Climate Change, 2006)

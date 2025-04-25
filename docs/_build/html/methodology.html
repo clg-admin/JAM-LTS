@@ -6,7 +6,7 @@
   <meta charset="utf-8" /><meta name="viewport" content="width=device-width, initial-scale=1" />
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>2. Metodología &mdash; JAM-LTS 2025 documentation</title>
+  <title>2. Methodology &mdash; JAM-LTS 2025 documentation</title>
       <link rel="stylesheet" type="text/css" href="_static/pygments.css?v=b86133f3" />
       <link rel="stylesheet" type="text/css" href="_static/css/theme.css?v=e59714d7" />
 
@@ -20,7 +20,7 @@
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
     <link rel="next" title="3. Emisiones Nacionales NDC" href="national_results.html" />
-    <link rel="prev" title="1. Introducción" href="introduction.html" /> 
+    <link rel="prev" title="1. Introduction" href="introduction.html" /> 
 </head>
 
 <body class="wy-body-for-nav"> 
@@ -45,7 +45,12 @@
               <p class="caption" role="heading"><span class="caption-text">Documentation Structure</span></p>
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="introduction.html">1. Introduction</a></li>
-<li class="toctree-l1 current"><a class="current reference internal" href="#">2. Methodology</a></li>
+<li class="toctree-l1 current"><a class="current reference internal" href="#">2. Methodology</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#approach-for-mitigation-actions">2.1. Approach for Mitigation Actions</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#approach-for-adaptation-actions">2.2. Approach for Adaptation Actions</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#approach-for-macroeconomic-analysis">2.3. Approach for Macroeconomic Analysis</a></li>
+</ul>
+</li>
 <li class="toctree-l1"><a class="reference internal" href="national_results.html">3. National Results</a></li>
 <li class="toctree-l1"><a class="reference internal" href="0_electricity_buildings/index.html">4. Electricity and Buildings</a></li>
 <li class="toctree-l1"><a class="reference internal" href="1_transport/index.html">5. Transport</a></li>
@@ -79,7 +84,7 @@
           <div role="navigation" aria-label="Page navigation">
   <ul class="wy-breadcrumbs">
       <li><a href="index.html" class="icon icon-home" aria-label="Home"></a></li>
-      <li class="breadcrumb-item active"><span class="section-number">2. </span>Metodología</li>
+      <li class="breadcrumb-item active"><span class="section-number">2. </span>Methodology</li>
       <li class="wy-breadcrumbs-aside">
             <a href="_sources/methodology.rst.txt" rel="nofollow"> View page source</a>
       </li>
@@ -89,45 +94,88 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
              
-  <section id="metodologia">
-<h1><span class="section-number">2. </span>Metodología<a class="headerlink" href="#metodologia" title="Link to this heading"></a></h1>
-<p>La metodología utilizada para desarrollar OSeMOSYS-ECU se basa en:</p>
+  <section id="methodology">
+<h1><span class="section-number">2. </span>Methodology<a class="headerlink" href="#methodology" title="Link to this heading"></a></h1>
+<p>The project evaluates the costs and benefits of Jamaica’s Long-Term Strategy (LTS) through
+a participatory approach that includes local stakeholder input and accounts for uncertainties affecting outcomes.
+It applies the Robust Decision-Making (RDM) framework to support resilient policy assessment. The analysis involves the
+modeling of mitigation and adaptation actions to climate change, helping to identify key data, costs, and benefits,
+and ensuring the strategy aligns with national priorities while addressing social, economic, and environmental impacts.</p>
+<p><strong>Figure 1</strong> shows the three key models that guided the analysis.</p>
+<figure class="align-center" id="id1">
+<a class="reference internal image-reference" href="_images/1_methodology.png"><img alt="Models used on the cost and benefits analysis" src="_images/1_methodology.png" style="width: 100%;" />
+</a>
+<figcaption>
+<p><span class="caption-text"><strong>Figure 1:</strong> Models used in the cost and benefits analysis.</span><a class="headerlink" href="#id1" title="Link to this image"></a></p>
+</figcaption>
+</figure>
+<section id="approach-for-mitigation-actions">
+<h2><span class="section-number">2.1. </span>Approach for Mitigation Actions<a class="headerlink" href="#approach-for-mitigation-actions" title="Link to this heading"></a></h2>
+<p>The methodology used to develop the sectoral models is based on:</p>
 <ol class="arabic simple">
-<li><p><strong>Revisión de planes nacionales</strong>
-Se analizaron documentos clave como la <strong>1ra NDC</strong>, el
-<strong>Inventario Nacional de Gases de Efecto Invernadero (INGEI)</strong> y
-el <strong>PLANMICC</strong>.</p></li>
-<li><p><strong>Calibración con datos históricos</strong>
-Se aseguraron coherencias con:
-- Datos de <strong>BEN (Balances Energéticos Nacionales)</strong>
-- Reportes del <strong>INGEI</strong>
-- Datos del <strong>PNUD y FAO</strong> sobre la 2da NDC</p></li>
-<li><p><strong>Co-construcción con expertos sectoriales</strong>
-Se realizaron más de <strong>15 reuniones técnicas</strong>
-entre septiembre y diciembre de 2024 para validar los supuestos del modelo.</p></li>
-<li><p><strong>Definición de escenarios</strong>
-Se modelaron al menos tres escenarios por sector:
-- <strong>Escenario tendencial</strong> (business-as-usual)
-- <strong>Escenario de mitigación incondicional</strong>
-- <strong>Escenario de mitigación condicional</strong></p></li>
-<li><p><strong>Implementación en OSeMOSYS con Python</strong>
-- El modelo fue desarrollado en <strong>Python</strong> utilizando herramientas de
-análisis de datos.
-- Se definieron emisiones por año y sector usando
-<strong>factores de emisión locales</strong>.</p></li>
+<li><p><strong>Development of the XLRM Matrix</strong>
+An initial XLRM matrix was created to identify uncertainties and key variables affecting mitigation outcomes.</p></li>
+<li><p><strong>Construction of Baseline Scenarios</strong>
+Two baseline scenarios were developed:</p>
+<ul class="simple">
+<li><p><strong>Reference scenario (business-as-usual):</strong> No additional decarbonization policies implemented.</p></li>
+<li><p><strong>LTS scenario:</strong> Incorporates mitigation actions included in the Long-Term Strategy (LTS).</p></li>
+</ul>
+</li>
+<li><p><strong>Modeling with OSeMOSYS</strong>
+The models were built using OSeMOSYS, an open-source tool for energy system modeling.</p></li>
+<li><p><strong>Simulation of Uncertainties</strong>
+A total of 100 possible futures were modeled, based on the uncertainties and their ranges defined in the XLRM matrix.</p></li>
+<li><p><strong>Analysis of Costs and Benefits</strong>
+The variation in uncertainties influenced the expected ranges of costs and benefits resulting from LTS implementation.</p></li>
+</ol>
+</section>
+<section id="approach-for-adaptation-actions">
+<h2><span class="section-number">2.2. </span>Approach for Adaptation Actions<a class="headerlink" href="#approach-for-adaptation-actions" title="Link to this heading"></a></h2>
+<p>The methodology for evaluating adaptation strategies in the LTS is structured as follows:</p>
+<ol class="arabic simple">
+<li><p><strong>Differentiation of Strategies</strong>
+Due to the nature of adaptation and mitigation, adaptation strategies are addressed qualitatively, while mitigation strategies follow quantitative targets.</p></li>
+<li><p><strong>Linking Goals to Actions</strong>
+The broader adaptation objectives of the LTS were connected to specific plans, targets, and initiatives already being implemented or planned by sectoral entities.</p></li>
+<li><p><strong>Breakdown of Objectives</strong>
+These general adaptation goals were disaggregated into concrete and actionable strategies, allowing alignment with measurable outcomes for impact evaluation.</p></li>
+<li><p><strong>Cost-Benefit Analysis of Adaptation</strong>
+An open-access tool developed by GIZ was used to conduct cost-benefit analyses of the identified adaptation scenarios.</p></li>
+<li><p><strong>Assessment of Economic Impacts</strong>
+The analysis provides estimates of incremental investments and savings associated with the implementation of the LTS adaptation actions.</p></li>
+<li><p><strong>Incorporation of Uncertainty</strong>
+The influence of uncertainty was assessed through the application of Robust Decision Making (RDM) techniques to the adaptation models.</p></li>
+</ol>
+</section>
+<section id="approach-for-macroeconomic-analysis">
+<h2><span class="section-number">2.3. </span>Approach for Macroeconomic Analysis<a class="headerlink" href="#approach-for-macroeconomic-analysis" title="Link to this heading"></a></h2>
+<p>The methodology for analyzing the macroeconomic effects of LTS implementation is based on:</p>
+<ol class="arabic simple">
+<li><p><strong>Objective of the Analysis</strong>
+The project seeks to understand the macroeconomic impacts of implementing the LTS, focusing on key economic indicators and their relation to sustainable development.</p></li>
+<li><p><strong>Use of the iSDG Model</strong>
+The Integrated Sustainable Development Goals (iSDG) model of Jamaica was applied to assess the LTS’s effects on SDG indicators and critical economic variables.</p></li>
+<li><p><strong>Mapping LTS to SDGs</strong>
+LTS milestones were systematically mapped to specific SDG indicators, ensuring a data-driven and coherent evaluation of policy impacts.</p></li>
+<li><p><strong>Evaluation of Policy Impacts</strong>
+The model enables analysis of the environmental, economic, and social effects of mitigation strategies, aligning them with national priorities and global commitments.</p></li>
+<li><p><strong>Preliminary Results and Model Calibration</strong>
+The results presented are preliminary, highlighting the need for further calibration of the iSDG model to enhance reliability and accuracy.</p></li>
 </ol>
 <div class="admonition note">
 <p class="admonition-title">Note</p>
-<p>La metodología sigue los principios de transparencia y reproducibilidad,
-permitiendo ajustes y mejoras futuras.</p>
+<p>The methodology follows the principles of transparency and
+reproducibility, allowing for future adjustments and improvements.</p>
 </div>
+</section>
 </section>
 
 
            </div>
           </div>
           <footer><div class="rst-footer-buttons" role="navigation" aria-label="Footer">
-        <a href="introduction.html" class="btn btn-neutral float-left" title="1. Introducción" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="introduction.html" class="btn btn-neutral float-left" title="1. Introduction" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
         <a href="national_results.html" class="btn btn-neutral float-right" title="3. Emisiones Nacionales NDC" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
     </div>
 

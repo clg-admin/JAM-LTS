@@ -1,12 +1,12 @@
 ===================================================
-Modelo del Sector Energía
+Industry Sector
 ===================================================
 
 .. toctree::
    :maxdepth: 2
 
-   Estructura del modelo <0_estructura>
-   Datos de Entrada <1_entradas>
-   Escenarios <2_escenarios>
-   Resultados <3_resultados>
-   Referencias <4_referencias>
+   Model Structure <0_estructura>
+   Input Data <1_entradas>
+   Scenarios <2_escenarios>
+   Results <3_resultados>
+   References <4_referencias>

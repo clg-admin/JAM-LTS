@@ -1,12 +1,17 @@
----------------------
-Resultados
----------------------
+===================================
+Results
+===================================
 
-Las emisiones resultantes de CO2e del sector Energía se presentan en la Figura 3 para los 3 escenarios estudiados. En color gris se ilustra el escenario Tendencial de la 1ra NDC, el escenario Incondicional de la 2da NDC corresponde a la trayectoria color naranja y el escenario Incondicional y Condicional de la 2da NDC a la trayectoria verde. En la Figura 4, la trayectoria verde queda por debajo de la trayectoria naranja, debido a que hay una mayor disminución de emisiones. 
+ **Figure 12** show that adaptation actions in the Ecosystems sector yield significant benefits,
+ with a net gain of US$388.6 million from 2025 to 2050. The primary benefit, valued at US$402.8 million,
+ comes from improved air quality regulation through reforestation of 14,500 hectares, using a conservative estimate of
+ US$4,686 per hectare. While reforestation incurs the highest cost at US$14.9 million, it provides long-term ecological and
+ economic value. Other costs include forest planning, training, and monitoring, while additional benefits include erosion control,
+ temperature regulation, and tourism enhancement.
 
-.. figure:: ../_static/_images/energia_resultados.png
-   :alt: Escenarios del sector Energía
-   :width: 100%
+.. figure:: ../_static/_images/12_ecosystems.png
+   :alt: Models used on the cost and benefits analysis
+   :width: 80%
    :align: center
 
-   Figura 3. Emisiones en CO2e del sector Energía por año y escenario.
+   **Figure 12:** Costs and benefits disaggregated from the modelling process for adaptation actions in the Terrestrial Ecosystems sector. 

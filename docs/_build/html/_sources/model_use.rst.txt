@@ -1,66 +1,78 @@
-¿Cómo usar el modelo?
 =========================
+How to use the models?
+=========================
+We used a mitigation model built with OSeMOSYS to quantify the costs and benefits of implementing LTS mitigation actions
+across different scenarios and futures. For adaptation, we developed a separate model using an open-access cost-benefit
+analysis tool to evaluate the economic impacts of sector-specific adaptation strategies aligned with the LTS, also incorporating
+uncertainty analysis through RDM.
 
-
-En primer lugar, es importante tener en cuenta el flujo de trabajo que se muestra en la Figura 1. Este flujo de trabajo nos indica cuáles son los archivos importantes para ejecutar cada paso y proporciona una mejor comprensión general.
+Mitigation Model 
+-------------------------------
+First, it is important to consider the workflow shown in Figure 1. This workflow indicates which files are important for executing each step and provides a better general understanding.
 
 .. image:: _static/_images/flujo_trabajo.png
    :align: center
-   :alt: Figura 1 Flujo de trabajo del modelo OSeMOSYS-ECU
+   :alt: Figure 1 Workflow of the OSeMOSYS-ECU model
 
-**Figura 1: Flujo de trabajo del modelo OSeMOSYS-ECU**
+**Figure 1: Workflow of the OSeMOSYS-ECU model**
 
-Crear la estructura del modelo (A1)
------------------------------------
-El primer paso del OSeMOSYS-ECU es crear la estructura del modelo. Para ello, necesita ejecutar el script de Python ``A1_Model_Structure``. Para realizar esta ejecución, es necesario parametrizar los archivos de Excel dentro de ``A1_Inputs``:
+   Create the model structure (A1)
+   -------------------------------
+   The first step of OSeMOSYS-ECU is to create the model structure. To do this, you need to run the Python script ``A1_Model_Structure``. To run this script, it is necessary to parameterize the Excel files inside ``A1_Inputs``:
 
-- ``A-I_Classifier_Modes_Demand``
-- ``A-I_Classifier_Modes_Supply``
-- ``A-I_Classifier_Modes_Transport``
-- ``A-I_Horizon_Configuration``
+   - ``A-I_Classifier_Modes_Demand``
+   - ``A-I_Classifier_Modes_Supply``
+   - ``A-I_Classifier_Modes_Transport``
+   - ``A-I_Horizon_Configuration``
 
-Luego, debes ejecutar el script de Python ``A1_Model_Structure``. Al finalizar la ejecución, se generarán algunos archivos dentro de ``A1_Outputs``:
+   Then, you must run the Python script ``A1_Model_Structure``. After the execution is complete, some files will be generated inside ``A1_Outputs``:
 
-- ``A-O_AR_Model_Base_Year.xlsx``
-- ``A-O_AR_Projections.xlsx``
-- ``A-O_Demand.xlsx``
-- ``A-O_Fleet.xlsx``
-- ``A-O_Parametrization.xlsx``
-- ``A-O_Fleet_Groups.pickle``
+   - ``A-O_AR_Model_Base_Year.xlsx``
+   - ``A-O_AR_Projections.xlsx``
+   - ``A-O_Demand.xlsx``
+   - ``A-O_Fleet.xlsx``
+   - ``A-O_Parametrization.xlsx``
+   - ``A-O_Fleet_Groups.pickle``
 
-Estos archivos se reescriben con la estructura predeterminada cada vez que se ejecuta el script de Python, por lo que se recomienda ejecutar este script solo una vez.
+   These files are overwritten with the default structure each time the Python script is run, so it is recommended to run this script only once.
 
-Compilador del modelo (A2)
---------------------------
-El segundo paso consiste en definir el proceso para compilar el modelo en archivos por parámetro. Para ello, toma como entradas los archivos de Excel de ``A1_Outputs``, además de los archivos de Excel de la carpeta ``A2_Xtra_Inputs`` y el archivo ``A2_Structure_Lists``. Luego, ejecuta este script de Python.
+   Model compiler (A2)
+   -------------------
+   The second step consists of defining the process to compile the model into parameter files. To do this, it takes as inputs the Excel files from ``A1_Outputs``, as well as the Excel files from the ``A2_Xtra_Inputs`` folder and the file ``A2_Structure_Lists``. Then, run this Python script.
 
-Es importante tener en la carpeta ``A2_Outputs_Params/Default``, los archivos predeterminados por parámetro utilizados por el script de Python ``A2_Compiler``. Este script genera algunos archivos en las carpetas ``A1_Outputs`` y ``A2_Outputs_Params``. En la segunda carpeta, se genera la misma cantidad de subcarpetas que escenarios tiene el modelo, y dentro de estas subcarpetas se encuentran los archivos de Excel con datos por parámetro.
+   It is important to have in the folder ``A2_Outputs_Params/Default``, the default files by parameter used by the Python script ``A2_Compiler``. This script generates some files in the ``A1_Outputs`` and ``A2_Outputs_Params`` folders. In the second folder, the same number of subfolders as there are scenarios in the model is generated, and inside these subfolders, Excel files with data by parameter are found.
 
-Crear el archivo de entrada (B1)
----------------------------------
-El siguiente paso es más largo y requiere cuidado. Es importante seguir el flujo de trabajo en la figura al inicio de la sección. Primero, ve a la carpeta ``B1_Output_Params`` y elimina cualquier subcarpeta que encuentres allí. Luego, ve a la carpeta ``A2_Outputs_Params``, copia las carpetas con el nombre de los escenarios, y pégalas en ``B1_Output_Params``. También es necesario copiar manualmente los datos del archivo ``A2_Structure_Lists.xlsx`` al archivo ``B1_Model_Structure``.
+   Create the input file (B1)
+   --------------------------
+   The next step is longer and requires care. It is important to follow the workflow in the figure at the beginning of the section. First, go to the folder ``B1_Output_Params`` and delete any subfolder you find there. Then, go to the folder ``A2_Outputs_Params``, copy the folders with the names of the scenarios, and paste them into ``B1_Output_Params``. It is also necessary to manually copy the data from the file ``A2_Structure_Lists.xlsx`` to the file ``B1_Model_Structure``.
 
-A continuación, debes parametrizar el modelo en los archivos ``B1_Scenario_Config.xlsx``.
+   Next, you must parameterize the model in the files ``B1_Scenario_Config.xlsx``.
 
-Para escribir el modelo, usa el script ``B1_Base_Scenarios_Adj_Parallel.py``.
+   To write the model, use the script ``B1_Base_Scenarios_Adj_Parallel.py``.
 
-Los resultados de esta ejecución se encuentran en la carpeta ``B1_Output_Params``. Los archivos en esta carpeta sobrescriben los de las salidas del paso ``A2``. Además, el archivo del modelo se encuentra en la carpeta ``Executables``, dentro de una subcarpeta para cada escenario. Este archivo es un archivo de texto, por ejemplo:
+   The results of this execution are found in the folder ``B1_Output_Params``. The files in this folder overwrite those from the ``A2`` step outputs. Additionally, the model file is located in the ``Executables`` folder, inside a subfolder for each scenario. This file is a text file, for example:
 
-- ``BAU_0.txt``
+   - ``BAU_0.txt``
 
-Ejecución del modelo (B1)
--------------------------
-Para ejecutar el modelo, usa el script ``B1_Base_Scenarios_Adj_Parallel.py``.
+   Model execution (B1)
+   --------------------
+   To run the model, use the script ``B1_Base_Scenarios_Adj_Parallel.py``.
 
-Los resultados de esta ejecución se encuentran en la carpeta ``Executables``, dentro de una subcarpeta para cada escenario, y generan tres archivos.
+   The results of this execution are found in the ``Executables`` folder, inside a subfolder for each scenario, and generate three files.
 
-Concatenación de resultados (B2)
----------------------------------
-Este paso facilita el análisis de los resultados. Al ejecutar el script de Python ``B2_Results_Creator_f0.py``, este toma los archivos CSV con datos de entrada y salida del modelo de cada escenario, los concatena y crea cuatro archivos:
+   Results concatenation (B2)
+   --------------------------
+   This step facilitates the analysis of results. When running the Python script ``B2_Results_Creator_f0.py``, it takes the CSV files with input and output data of the model for each scenario, concatenates them, and creates four files:
 
-- ``Nombre_de_Escenario_Input.csv``
-- ``Nombre_de_Escenario_Input_2024_10_22.csv``
-- ``Nombre_de_Escenario_Output.csv``
-- ``Nombre_de_Escenario_Output_2024_10_22.csv``
+   - ``Scenario_Name_Input.csv``
+   - ``Scenario_Name_Input_2024_10_22.csv``
+   - ``Scenario_Name_Output.csv``
+   - ``Scenario_Name_Output_2024_10_22.csv``
 
-Los archivos con fecha permiten rastrear ejecuciones realizadas en diferentes fechas, ya que los archivos sin fecha se sobrescriben con cada ejecución.
+   The files with dates allow tracking of executions made on different dates, as the files without dates are overwritten with each execution.
+
+
+Adaptation Model 
+-------------------------------
+
+Under construction

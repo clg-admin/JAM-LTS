@@ -1,12 +1,18 @@
----------------------
-Resultados
----------------------
+===================================
+Results
+===================================
 
-Las emisiones resultantes de CO2e del sector Energía se presentan en la Figura 3 para los 3 escenarios estudiados. En color gris se ilustra el escenario Tendencial de la 1ra NDC, el escenario Incondicional de la 2da NDC corresponde a la trayectoria color naranja y el escenario Incondicional y Condicional de la 2da NDC a la trayectoria verde. En la Figura 4, la trayectoria verde queda por debajo de la trayectoria naranja, debido a que hay una mayor disminución de emisiones. 
 
-.. figure:: ../_static/_images/energia_resultados.png
-   :alt: Escenarios del sector Energía
-   :width: 100%
+The preliminary results in **Figure 9** indicate that implementing the LTS yields $0.5 billion
+in net benefits compared to the BAU scenario. Although the LTS involves $0.3 billion in additional
+costs for new infrastructure and operations, these are outweighed by significant health and environmental gains.
+Key benefits include $0.4 billion in savings from reduced waste-related diseases, $0.15 billion from avoiding water
+contamination, and $0.25 billion from circular economy advantages.
+
+.. figure:: ../_static/_images/9_waste.png
+   :alt: Models used on the cost and benefits analysis
+   :width: 80%
    :align: center
 
-   Figura 3. Emisiones en CO2e del sector Energía por año y escenario.
+   **Figure 9:** Preliminary results for the waste management sector: (a) costs of the BAU and LTS scenarios, and (b) benefits
+   of implementing the LTS -cost difference between the BAU and LTS scenarios-.

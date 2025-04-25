@@ -1,12 +1,18 @@
----------------------
-Resultados
----------------------
+===================================
+Results
+===================================
 
-Las emisiones resultantes de CO2e del sector Energía se presentan en la Figura 3 para los 3 escenarios estudiados. En color gris se ilustra el escenario Tendencial de la 1ra NDC, el escenario Incondicional de la 2da NDC corresponde a la trayectoria color naranja y el escenario Incondicional y Condicional de la 2da NDC a la trayectoria verde. En la Figura 4, la trayectoria verde queda por debajo de la trayectoria naranja, debido a que hay una mayor disminución de emisiones. 
+The modeling results in **Figure 11** show that adaptation actions in the Food Security sector provide
+a net benefit of $19.4 million, with benefits exceeding costs between 2025 and 2050. A key
+contributor is climate-smart agriculture, which generates $21.2 million in productivity gains.
+This strategy, covering multiple specific actions, has the greatest impact. Beyond monetary value,
+the actions improve food security, reduce malnutrition risks, and support ecological sustainability.
 
-.. figure:: ../_static/_images/energia_resultados.png
-   :alt: Escenarios del sector Energía
-   :width: 100%
+.. figure:: ../_static/_images/11_foodsec.png
+   :alt: Models used on the cost and benefits analysis
+   :width: 80%
    :align: center
 
-   Figura 3. Emisiones en CO2e del sector Energía por año y escenario.
+   **Figure 11:** Costs and benefits disaggregated from the modelling process for adaptation
+   actions in the Food Security sector (Action 4.1: Develop and implement climate-smart agriculture. Action 4.2:
+   Enable innovative irrigation methods. Action 4.3: Vulnerable crops substitution with climate-resilient alternatives).
