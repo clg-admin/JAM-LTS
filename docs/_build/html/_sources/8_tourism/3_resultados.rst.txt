@@ -2,17 +2,15 @@
 Results
 ===================================
 
-The modeling results in **Figure 11** show that adaptation actions in the Food Security sector provide
-a net benefit of $19.4 million, with benefits exceeding costs between 2025 and 2050. A key
-contributor is climate-smart agriculture, which generates $21.2 million in productivity gains.
-This strategy, covering multiple specific actions, has the greatest impact. Beyond monetary value,
-the actions improve food security, reduce malnutrition risks, and support ecological sustainability.
+The modelling results for Jamaica’s Tourism sector reveal that adaptation actions yield
+net benefits of $103 million USD between 2025 and 2050, with benefits significantly outweighing costs as shown in **Figure 15**.
+The Long-Term Strategy promotes nature-based solutions like coral reef restoration and beach nourishment
+to protect coastal ecosystems, along with tourism diversification into rural and eco-tourism. These measures
+enhance resilience, reduce environmental pressure, and ensure strong economic returns despite high initial investments.
 
-.. figure:: ../_static/_images/11_foodsec.png
+.. figure:: ../_static/_images/15_tourism.png
    :alt: Models used on the cost and benefits analysis
    :width: 80%
    :align: center
 
-   **Figure 11:** Costs and benefits disaggregated from the modelling process for adaptation
-   actions in the Food Security sector (Action 4.1: Develop and implement climate-smart agriculture. Action 4.2:
-   Enable innovative irrigation methods. Action 4.3: Vulnerable crops substitution with climate-resilient alternatives).
+   **Figure 15:** CoCosts and benefits disaggregated from the modelling process for adaptation actions in the Tourism Sector.

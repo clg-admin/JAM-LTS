@@ -2,18 +2,29 @@
 Specific Adaptation Strategies
 ===================================
 
-For this sector, the LTS envisions Jamaica adopting Climate-Smart Agriculture (CSA), improving irrigation efficiency, shifting crop patterns
-to match changing seasonality, and promote climate-resilient crops to strengthen its agricultural sector against
-climate change. These actions are expected to enhance productivity, conserve resources, and secure livelihoods,
-leading to a more resilient agricultural sector and sustainable economic growth. 
- 
-The specific actions modeled under the LTS scenario are:
+Jamaica’s Long-Term Strategy (LTS) for the Population and Health sector seeks to ensure a resilient and healthy population by 2050 through equitable access to healthcare, improved sanitation, and strengthened infrastructure to cope with climate-induced health risks. The LTS outlines specific actions with detailed strategies aimed at improving water quality, promoting healthier lifestyles, strengthening disaster response, and enhancing public health systems.
 
-  •	Agroforestry systems with hedgerows on 10% of cropland (34,100 ha by 2050).
-  •	Contour ditches on 10% of one-third of cropland (11,366 ha by 2050).
-  •	Crop rotation (maize/bean) on 30% of the area cultivated with maize and beans by 2050.
-  •	Heat and water stress-tolerant varieties on 5% of cropland (17,050 ha by 2050).
-  •	Pest and disease-tolerant varieties on 5% of cropland (17,050 ha by 2050).
-  •	Conservation tillage on 5% of cropland (17,050 ha by 2050).
-  •	Increase irrigation by 20% of cropland (4,978.6 ha), with half under drip irrigation and half under sprinkler irrigation.
-  •	Replace 30% of maize used in animal feed with cassava root meal.
+Key highlights from the LTS include:
+
+- Water Quality and Sanitation: 
+  The strategy targets the 15% of the population living in Non-Utility Service Areas by implementing a Water Supply Development Strategy tailored for these regions.
+
+- Green Areas and Healthy Lifestyles
+  
+  - Construction of 40 new public parks or green areas by 2050 (five every three years).
+  - Upgrading 25 community sports facilities annually.
+  - Annual provision of 250 waste bins, bi-annual procurement of garbage trucks, and annual waste management assessments to ensure hygiene in community spaces.
+
+- Shock-Responsive Social Safety Net:
+  
+  - Doubling of the National Disaster Fund’s annual disbursement capacity.
+  - $200 USD cash grants to 75,000 families every two years post-disasters.
+  - Allocation of $3 million USD every two years for post-disaster rehabilitation.
+
+- Vector-Borne Disease Surveillance:
+  
+  - Distribution of 357 mosquito nets annually from 2025 to 2035.
+  - Annual public health campaigns including fogging, larvicidal activities, and disease monitoring.
+
+- Financial Inclusion and Livelihood Protection:
+  - Implementation of the Livelihood Protection Policy (LPP), providing assistance to 18,750 individuals every two years.

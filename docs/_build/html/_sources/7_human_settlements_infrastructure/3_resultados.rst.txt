@@ -2,17 +2,31 @@
 Results
 ===================================
 
-The modeling results in **Figure 11** show that adaptation actions in the Food Security sector provide
-a net benefit of $19.4 million, with benefits exceeding costs between 2025 and 2050. A key
-contributor is climate-smart agriculture, which generates $21.2 million in productivity gains.
-This strategy, covering multiple specific actions, has the greatest impact. Beyond monetary value,
-the actions improve food security, reduce malnutrition risks, and support ecological sustainability.
+**Figure 13** modeling results for the Human Settlement sector show that only housing solutions
+(Action 2.1) currently have quantified benefits, amounting to $508.8 million, while the
+total cost of all actions is approximately $3,048 million, resulting in a net cost of -$2,541.7
+million. Significant data gaps exist, particularly for low-carbon cooling, coastal defenses,
+and microinsurance, and further stakeholder engagement is needed to refine cost-benefit estimates.
 
-.. figure:: ../_static/_images/11_foodsec.png
+For the Critical Infrastructure sector, results from **Figure 14** show the total benefits ($3,442 million) exceed costs
+($1,110 million), yielding a net benefit of $2,332 million, largely driven by avoided costs
+from a nationwide non-revenue water reduction program. While some actions show higher costs
+than benefits, unquantified advantages like improved water quality, reduced flooding, and better
+public health could further enhance the sector’s economic returns.
+
+
+.. figure:: ../_static/_images/13_criticalinfra.png
    :alt: Models used on the cost and benefits analysis
    :width: 80%
    :align: center
 
-   **Figure 11:** Costs and benefits disaggregated from the modelling process for adaptation
-   actions in the Food Security sector (Action 4.1: Develop and implement climate-smart agriculture. Action 4.2:
-   Enable innovative irrigation methods. Action 4.3: Vulnerable crops substitution with climate-resilient alternatives).
+   **Figure 13:** Costs and benefits disaggregated from the modelling process for adaptation actions
+   in the Critical Infrastructure sector (Action 2.1 Housing Solutions, 2.2 Low-carbon cooling, 2.3 Microinsurance products, 2.4, Building coastal protection).
+
+.. figure:: ../_static/_images/14_criticalinfra2.png
+   :alt: Models used on the cost and benefits analysis
+   :width: 80%
+   :align: center
+
+   **Figure 14:** Costs and benefits disaggregated from the modelling process for adaptation actions
+   in the Critical Infrastructure sector (Action 2.1 Housing Solutions, 2.2 Low-carbon cooling, 2.3 Microinsurance products, 2.4, Building coastal protection).

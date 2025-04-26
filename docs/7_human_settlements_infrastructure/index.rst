@@ -1,5 +1,5 @@
 ===================================================
-Food Security
+Human Settlements and Critical Infrastructure
 ===================================================
 
 .. toctree::

@@ -2,55 +2,54 @@
 Cost and Benefit Data
 ===================================
 
- **Table 11** presents key data points and sources used in the evaluation of climate-smart agriculture (CSA). These data support the assessment of labor costs, benefits,
- and technical parameters associated with various CSA interventions, such as agroforestry,
- contour ditches, smart irrigation, and improved crop varieties. The values are derived from reputable national and
- international studies, with contextual adaptations
 
+**Table 17** details various cost and benefit estimates for actions aimed at improving population health, sanitation, disaster response, and public infrastructure in Jamaica as part of the Long-Term Strategy. These data points support strategic planning in reducing vulnerability, improving public health, and increasing resilience through targeted investments and policy measures.
 
-.. list-table:: **Table 11.** Key Data Points and Sources for Climate-Smart Agriculture
-   :widths: 50 50
+.. list-table:: **Table 17.** Costs and Benefits for Health and Population Sector Interventions
+   :widths: 40 60
    :header-rows: 1
 
    * - **Data point description**
      - **Source**
-   * - Agroforestry systems with hedgerows - Installation Labor cost. Cropland is 31.3% of total country land (1,090,000 ha). Estimated cropland 341,000 ha. 10% target = 34,100 ha over 25 years = 1,364 ha/year.
-     - Costs and benefits of climate-smart agriculture: The case of the Dry Corridor in Guatemala - ScienceDirect
-   * - Agroforestry systems with hedgerows - Maintenance Labor cost. 17,732 ha/year is the mean annual area for implementation from 2025 to 2050.
-     - Costs and benefits of climate-smart agriculture: The case of the Dry Corridor in Guatemala - ScienceDirect
-   * - Contour ditches - Installation Labor cost. 384,000 ha with slopes <10°. Assume 10% of suitable cropland = 11,366 ha over 25 years = 455 ha/year.
-     - Costs and benefits of climate-smart agriculture: The case of the Dry Corridor in Guatemala - ScienceDirect
-   * - Contour ditches - Maintenance Labor cost. 5,919 ha/year mean for 2025-2050.
-     - Costs and benefits of climate-smart agriculture: The case of the Dry Corridor in Guatemala - ScienceDirect
-   * - Value of soil loss avoided by contour ditches. Avoided erosion: 66.5 t/ha/year * 5,919 ha = 393,347.5 t/year * 0.008 USD.
-     - Costs and benefits of climate-smart agriculture: The case of the Dry Corridor in Guatemala - ScienceDirect; LAND RESOURCES INFORMATION SYSTEMS IN THE CARIBBEAN; Get The Facts – Climate-Smart Farming Practices – Jamaica Information Service
-   * - Value of agroforestry systems with hedgerows.
-     - Costs and benefits of climate-smart agriculture: The case of the Dry Corridor in Guatemala - ScienceDirect
-   * - Crop rotation (maize/bean) Labor cost. 2,305 ha/year maize + beans. 30% implementation = 691.5 ha over 25 years = 28 ha/year. Mean implementation 364 ha/year.
-     - Costs and benefits of climate-smart agriculture: The case of the Dry Corridor in Guatemala - ScienceDirect; Area_reaped_10yrs_2014-2023.pdf
-   * - Biodiversity benefits from CSA on 10% of cropland, mean 17,732 ha/year.
-     - Costs and benefits of climate-smart agriculture: The case of the Dry Corridor in Guatemala - ScienceDirect
-   * - Value of firewood from agroforestry. 60 bunches/ha * 45.5 USD = 2,730 USD/ha (1 harvest in 25 years).
-     - Costs and benefits of climate-smart agriculture: The case of the Dry Corridor in Guatemala - ScienceDirect
-   * - Conservation tillage with mulch. 5% of cropland = 17,050 ha by 2050. Annual mean = 8,525 ha/year.
-     - Costs and benefits of climate-smart agriculture: The case of the Dry Corridor in Guatemala - ScienceDirect
-   * - Soil loss avoided by conservation tillage. 133 t/ha/year * 8,525 ha = 1,133,825 t/year * 0.008 USD/t.
-     - Costs and benefits of climate-smart agriculture: The case of the Dry Corridor in Guatemala - ScienceDirect
-   * - Increase in yields from CSA. 30% yield increase on 10% cropland = 1,711,260 USD/year. Export impact: 603 t * 2,837 USD/t.
-     - Trade Map - List of products exported by Jamaica
-   * - Pest/disease-tolerant varieties Labor cost. 5% cropland = 17,050 ha over 25 years = 682 ha/year.
-     - Costs and benefits of climate-smart agriculture: The case of the Dry Corridor in Guatemala - ScienceDirect
-   * - Benefit from reduced pesticide use with pest-tolerant varieties. 7.5 USD/ha (2024 adjusted).
-     - Costs and benefits of climate-smart agriculture: The case of the Dry Corridor in Guatemala - ScienceDirect
-   * - Heat/stress-tolerant varieties Labor cost. 5% cropland = 17,050 ha over 25 years = 682 ha/year.
-     - Costs and benefits of climate-smart agriculture: The case of the Dry Corridor in Guatemala - ScienceDirect
-   * - Drip irrigation Installation. 3,500 USD/ha. Target: 20% increase of 24,893 ha = 4,978.6 ha. Annual: 199 ha/year. Mean implementation: 2,587 ha/year.
-     - Agricultural irrigated land (% of total agricultural land) - Jamaica | Data; UNEP DTU Policy Brief; MOAF-1st-quarter-finalrevised1.pdf
-   * - Sprinkler irrigation Installation. 2,750 USD/ha. Target: same as drip irrigation.
-     - UNEP DTU Policy Brief
-   * - Irrigation Maintenance Labor cost. Mean: 2,587 ha/year.
-     - Costs and benefits of climate-smart agriculture: The case of the Dry Corridor in Guatemala - ScienceDirect
-   * - Yield increase from smart irrigation (20%). 57,042,000 USD agricultural exports, 167 USD/ha. Target: 20% increase in irrigated area. Mean: 2,587 ha/year.
-     - Jamaica Information Service; ScienceDirect; FAO AQUASTAT; ASSESSMENT OF LAND USE CHANGE IN JAMAICA 2021
-   * - Cassava replacing maize in animal feed. 30% of 1,344,000 kg/year = 403,200 kg/year.
-     - SciELO; Food Security; Trends of Maize (Corn) production in Jamaica
+   * - Cost: The National Disaster Fund. ODPEM is authorized to spend J$4 million annually (converted: USD 25,189 annually). Assumed extra same amount for this plan.
+     - World Bank Document
+   * - Cost: Rehabilitation works after a natural disaster. Mean cost is 4 MUSD every 2.5 years. Estimated 3.2 MUSD every 2 years.
+     - World Bank Document
+   * - Cost: Cash grants for disaster recovery. 75,000 families every two years at $250 USD per family.
+     - Case Study on Shock-Responsive Social Protection in Jamaica | socialprotection.org
+   * - Benefit: Multiplier effect for rehabilitation works (1.5x the cost). 3.2 MUSD * 1.5 = 4.8 MUSD.
+     - The Multiplier Effect - The Patterson Foundation
+   * - Benefit: Multiplier effect for cash grants (1.5x the cost). 18.75M USD * 1.5 = 28.125M USD.
+     - The Multiplier Effect - The Patterson Foundation
+   * - Cost: Supervision for upgrading sports facilities. 21,365.72 USD for 5 facilities = 4,273 USD/facility, 25 upgrades/year.
+     - World Bank Document
+   * - Cost: Provision of waste bins. 250 bins/year at 20 USD/bin.
+     - World Bank Document
+   * - Cost: Procurement of garbage trucks. 1 truck every 2 years.
+     - World Bank Document
+   * - Cost: Community waste management assessment. Average 84,058 USD/year.
+     - World Bank Document
+   * - Benefit: Diabetes treatment avoided due to physical activity in parks. Estimated 40 people/year, valued at 663,990 USD/person.
+     - the-health-benefits-of-parks-and-their-economic-impacts_0.pdf, National Food and Nutrition Security Policy.pdf, Jamaica GDP 1960-2024 | MacroTrends
+   * - Benefit: Cancer treatment avoided due to physical activity. 5 people/year, valued at 1,971,954 USD/person.
+     - the-health-benefits-of-parks-and-their-economic-impacts_0.pdf
+   * - Benefit: Costs of water-borne disease treatment avoided. 709,786 people affected, cost 182.27 USD/case.
+     - Average cost of a diarrhea case - Defeat DD, Jamaica Population (2024) - Worldometer, VNR_Goal_6.pdf
+   * - Benefit: Air purification from parks. 1 ha/park, average 2.6 parks/year.
+     - A Spatial Analysis of Northern Guatemala - DocsLib
+   * - Cost: Water Supply Development Strategy for Non-Utility Service Areas (5-year plan).
+     - FINAL National Water Sector Policy (2019)a - Jan 08 19
+   * - Cost: Provision of mosquito nets and covers. 7140.89 USD/year for 357 nets (20 USD/net).
+     - World Bank Document
+   * - Cost: Activities to prevent vector-borne diseases post-hurricane. Estimated 2.5 million USD/year.
+     - CEPAL Report
+   * - Cost: Park/green area construction. 5 parks every 2 years at 2.96 MUSD/park.
+     - Cities Need to Build Faster, Cheaper Public Parks - Bloomberg
+   * - Benefit: Tourism improvement due to better water and green areas. 1% of tourism profits = 2.12 MUSD (starting 2035).
+     - Development and importance of tourism for Jamaica
+   * - Benefit: Transport costs to health facility avoided. 2.31 USD/patient, 709,786 people affected.
+     - https://www.oecd.org/en/publications/benefits-of-investing-in-water-and-sanitation_9789264100817-en.html
+   * - Cost: Livelihood Protection Policy (LPP) for low-income individuals post-disaster. 18,750 people at 1100 USD/person.
+     - World Bank Document
+   * - Benefit: Multiplier effect for LPP (1.5x cost). 20.625M USD * 1.5 = 30.9375M USD.
+     - The Multiplier Effect - The Patterson Foundation
