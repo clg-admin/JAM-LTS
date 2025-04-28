@@ -14,10 +14,12 @@ Mitigation Model
 First, it is important to consider the workflow shown in Figure 1. This workflow indicates which files are important for executing each step and provides a better general understanding.
 
 .. figure:: _static/_images/flujo_trabajo.png
+   :alt: Models used on the cost and benefits analysis
+   :width: 100%
    :align: center
-   :alt: Figure 1 Workflow of the OSeMOSYS-ECU model
 
-**Figure 19: Workflow of the OSeMOSYS-ECU model**
+   **Figure 19:** Workflow of the OSeMOSYS-ECU model
+
 
 **Create the model structure (A1)**
 
@@ -92,31 +94,31 @@ The *Metodología para la Priorización de Medidas de Adaptación frente al Camb
 **Steps for Using the Methodology**
 
 
-1. **Define the Context**
-   - Determine the geographical scope (national, regional, or local).
-   - Identify the climate risks (e.g., droughts, floods) and sectors (e.g., agriculture, water resources).
+   1. **Define the Context**
+      - Determine the geographical scope (national, regional, or local).
+      - Identify the climate risks (e.g., droughts, floods) and sectors (e.g., agriculture, water resources).
 
-2. **Identify Adaptation Measures**
-   - Collect a list of potential adaptation actions from existing plans, expert input, or community consultations.
-   - Include structural (infrastructure) and non-structural (policies, education) measures.
+   2. **Identify Adaptation Measures**
+      - Collect a list of potential adaptation actions from existing plans, expert input, or community consultations.
+      - Include structural (infrastructure) and non-structural (policies, education) measures.
 
-3. **Establish Evaluation Criteria**
-   - Common criteria include:
-     - **Effectiveness:** How well does the measure reduce climate risk?
-     - **Feasibility:** Technical, social, and institutional capacity for implementation.
-     - **Cost:** Initial investment and operational costs.
-     - **Co-benefits:** Additional environmental, social, or economic benefits.
-     - **Urgency & Equity:** How urgent is the measure, and who benefits?
+   3. **Establish Evaluation Criteria**
+      - Common criteria include:
+      - **Effectiveness:** How well does the measure reduce climate risk?
+      - **Feasibility:** Technical, social, and institutional capacity for implementation.
+      - **Cost:** Initial investment and operational costs.
+      - **Co-benefits:** Additional environmental, social, or economic benefits.
+      - **Urgency & Equity:** How urgent is the measure, and who benefits?
 
-4. **Engage Stakeholders**
-   - Conduct workshops with stakeholders (government, civil society, technical experts).
-   - Define and weight evaluation criteria based on local priorities.
+   4. **Engage Stakeholders**
+      - Conduct workshops with stakeholders (government, civil society, technical experts).
+      - Define and weight evaluation criteria based on local priorities.
 
-5. **Score and Rank Measures**
-   - Evaluate each adaptation measure against the selected criteria.
-   - Apply weights to reflect the importance of each criterion.
-   - Use scoring matrices (e.g., Excel-based tools) to calculate final scores.
+   5. **Score and Rank Measures**
+      - Evaluate each adaptation measure against the selected criteria.
+      - Apply weights to reflect the importance of each criterion.
+      - Use scoring matrices (e.g., Excel-based tools) to calculate final scores.
 
-6. **Interpret Results**
-   - Generate a ranked list of prioritized measures.
-   - Use this list to guide adaptation
+   6. **Interpret Results**
+      - Generate a ranked list of prioritized measures.
+      - Use this list to guide adaptation
