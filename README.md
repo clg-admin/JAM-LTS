@@ -1,32 +1,43 @@
-# Documentación de OSeMOSYS-ECU
+This documentation is based on the development process of Jamaica's Long-Term Emission Reduction and Climate Resilient Strategy (LTS), 
+led by the Ministry of Economic Growth and Job Creation in collaboration with the 2050 Pathways Platform. 
+The LTS sets Jamaica's pathway to net zero emissions and increased climate resilience by 2050. This project supports decision-making by 
+evaluating the costs and benefits of the LTS, addressing social, economic, and environmental impacts, and identifying key opportunities and
+challenges for its implementation.
 
-OSeMOSYS-ECU es un modelo de planificación de mediano y largo plazo para la cuantificación de emisiones desarrollado en estrecha colaboración con el **PNUD y la FAO** para apoyar la construcción de la Segunda Contribución Nacionalmente Determinada (NDC) de Ecuador.
+-------------------------------------
+Folder Structure
+-------------------------------------
 
-El modelo se basa en **OSeMOSYS**, un marco de código abierto ampliamente utilizado para evaluar políticas de mitigación y estrategias de planificación energética. Además, este trabajo amplía el modelo previamente utilizado en el **PLANMICC** ([Plan Nacional de Mitigación del Cambio Climático](https://github.com/PLANMICC/OSeMOSYS_Ecuador)).
+To facilitate navigation, the documentation follows the following file structure:
 
-## Sectores Clave del Modelo
+.. code-block:: none
 
-Este documento cubre la modelización de **cinco sectores clave**:
-
-- **Energía**
-- **Procesos industriales y uso de productos (PIUP)**
-- **Residuos**
-- **Agricultura**
-- **Uso del suelo y cambio de uso del suelo (USCUSS)**
-
-## Estructura de la Documentación
-
-La documentación está organizada en los siguientes apartados:
-1. [Introducción](https://github.com/clg-admin/ECU_NDC/blob/main/docs/introduccion.rst)
-2. [Metodología](https://github.com/clg-admin/ECU_NDC/blob/main/docs/metodologia.rst./docs/metodologia)
-3. [Emisiones Nacionales NDC](https://github.com/clg-admin/ECU_NDC/blob/main/docs/nacionales.rst)
-4. [Energía](https://github.com/clg-admin/ECU_NDC/blob/main/docs/0_energia/index.rst)
-5. [Procesos Industriales y Uso de Productos (PIUP)](https://github.com/clg-admin/ECU_NDC/blob/main/docs/1_piup/index.rst)
-6. [Residuos](https://github.com/clg-admin/ECU_NDC/blob/main/docs/2_residuos/index.rst)
-7. [Agricultura](https://github.com/clg-admin/ECU_NDC/blob/main/docs/3_agricultura/index.rst)
-8. [Uso del Suelo y Cambio de Uso del Suelo (USCUSS)](https://github.com/clg-admin/ECU_NDC/blob/main/docs/4_uscuss/index.rst)
-9. [Uso del modelo OSeMOSYS-ECU](https://github.com/clg-admin/ECU_NDC/blob/main/docs/4_uscuss/index.rst)
-10. [Guía de Navegación GitHub](https://github.com/clg-admin/ECU_NDC/blob/main/docs/guia.rst)
-11. [Licencia](https://github.com/clg-admin/ECU_NDC/blob/main/docs/license.rst)
-12. [Autores](https://github.com/clg-admin/ECU_NDC/blob/main/docs/authors.rst)
+    docs/
+    │── index.rst                  # Main index page
+    │── introduction.rst           # Introduction to the model
+    │── methodology.rst            # General methodology
+    │── national_results.rst       # National results overview
+    │── model_use.rst              # How to use the model
+    │── github_navigation.rst      # GitHub navigation guide
+    │── license.rst                # Licensing information
+    │── authors.rst                # Credits and authors
+    │
+    ├── 0_electricity_buildings/   # Electricity and Buildings sector
+    │   ├── 0_estructura.rst
+    │   ├── 1_entradas.rst
+    │   ├── 2_escenarios.rst
+    │   ├── 3_resultados.rst
+    │   ├── 4_referencias.rst
+    │
+    ├── 1_transport/               # Transport sector
+    ├── 2_industry/                # Industry sector
+    ├── 3_waste/                   # Waste sector
+    ├── 4_land_use_forestry_agriculture/  # Land-use change, forestry, and agriculture
+    ├── 5_food_security/           # Food Security sector
+    ├── 6_terrestrial_ecosystems/  # Terrestrial Ecosystems
+    ├── 7_human_settlements_infrastructure/  # Human Settlements and Critical Infrastructure
+    ├── 8_tourism/                 # Tourism sector
+    ├── 9_coastal_areas/           # Coastal Areas
+    ├── 10_culture_heritage/       # Culture and Heritage
+    ├── 11_population_health/      # Population and Health
 ---
