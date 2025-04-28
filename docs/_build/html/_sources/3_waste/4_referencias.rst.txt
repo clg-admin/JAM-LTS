@@ -1,7 +1,10 @@
 ---------------------
-Referencias
+References
 ---------------------
-- **MAATE.** (n.d.). 5ta Comunicación Nacional.
-- **ARCONEL.** (2022). Estadística del Sector Eléctrico Ecuatoriano. `https://anda.inec.gob.ec/anda/index.php/catalog/ARCERNNR <https://anda.inec.gob.ec/anda/index.php/catalog/ARCERNNR>`_
-- **MEM.** (2023). Balance Energético Nacional 2023. `https://www.recursosyenergia.gob.ec/wp-content/uploads/2024/08/BEN_2023-cap_7.pdf <https://www.recursosyenergia.gob.ec/wp-content/uploads/2024/08/BEN_2023-cap_7.pdf>`_
-- **Gobierno de Ecuador.** (2019). Primera contribución determinada a nivel nacional para el acuerdo de París bajo la convención marco de Naciones Unidas sobre cambio climático. `https://unfccc.int/sites/default/files/NDC/2022-06/Primera%20NDC%20Ecuador.pdf <https://unfccc.int/sites/default/files/NDC/2022-06/Primera%20NDC%20Ecuador.pdf>`_
+- Planning Institute of Jamaica (PIOJ), 2022a. *Economic and Social Survey Jamaica 2015-2022*.
+- Kaza, S., et al. (2018). *What a Waste 2.0: A Global Snapshot of Solid Waste Management to 2050*.
+- Lanza, T., et al. (2022). *Jamaica’s Climate Change Research Agenda 2020-2030*.
+- Vivid Economics. (2023). *Developing Jamaica’s long-term strategy for low emission and climate resilient development*.
+- Correal, J., Faleiro, J., et al. (2022). *Sostenibilidad financiera de la gestión de residuos sólidos en América Latina y el Caribe*.
+- Correal, J., Faleiro, J., et al. (2022). *Lineamientos sectoriales para la gestión de residuos sólidos y el avance hacia la economía circular*.
+- Comparative evaluation of cost for preliminary and tertiary municipal wastewater treatment plants in Istanbul (Author/year not specified).

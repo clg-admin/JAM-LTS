@@ -11,7 +11,7 @@ included under food security, and forestry under terrestrial ecosystems. **Figur
 
 .. figure:: _static/_images/2_national.png
    :alt: Models used on the cost and benefits analysis
-   :width: 100%
+   :width: 80%
    :align: center
 
    **Figure 2:** Preliminary for CBA: (a) benefits of implementing Mitigation actions

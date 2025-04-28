@@ -1,7 +1,14 @@
 ---------------------
-Referencias
+References
 ---------------------
-- **MAATE.** (n.d.). 5ta Comunicación Nacional.
-- **ARCONEL.** (2022). Estadística del Sector Eléctrico Ecuatoriano. `https://anda.inec.gob.ec/anda/index.php/catalog/ARCERNNR <https://anda.inec.gob.ec/anda/index.php/catalog/ARCERNNR>`_
-- **MEM.** (2023). Balance Energético Nacional 2023. `https://www.recursosyenergia.gob.ec/wp-content/uploads/2024/08/BEN_2023-cap_7.pdf <https://www.recursosyenergia.gob.ec/wp-content/uploads/2024/08/BEN_2023-cap_7.pdf>`_
-- **Gobierno de Ecuador.** (2019). Primera contribución determinada a nivel nacional para el acuerdo de París bajo la convención marco de Naciones Unidas sobre cambio climático. `https://unfccc.int/sites/default/files/NDC/2022-06/Primera%20NDC%20Ecuador.pdf <https://unfccc.int/sites/default/files/NDC/2022-06/Primera%20NDC%20Ecuador.pdf>`_
+- International Energy Agency (IEA). (2023). *Global EV Outlook 2023: Executive Summary* [Accessed: 2023-11-28]. https://www.iea.org/reports/global-ev-outlook-2023/executive-summary
+- Ministry of Science, Energy and Technology (MSET), 2020
+- Ministry of Science, Energy and Technology (MSET), 2018a
+- Ministry of Science, Energy and Technology (MSET), 2018b
+- Ministry of Science, Energy and Technology (MSET), 2023
+- Jamaica Public Service (JPS), 2015, 2022, 2023
+- SieLAC-OLADE, 2022a
+- Planning Institute of Jamaica (PIOJ), 2022b
+- Argus Media, 2023
+- Intergovernmental Panel on Climate Change (IPCC Guidelines, volume 2, chapter 2)
+- Statistical Institute of Jamaica (StatInJa), 2024

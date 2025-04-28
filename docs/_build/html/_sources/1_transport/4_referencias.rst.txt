@@ -1,7 +1,9 @@
 ---------------------
-Referencias
+References
 ---------------------
-- **MAATE.** (n.d.). 5ta Comunicación Nacional.
-- **ARCONEL.** (2022). Estadística del Sector Eléctrico Ecuatoriano. `https://anda.inec.gob.ec/anda/index.php/catalog/ARCERNNR <https://anda.inec.gob.ec/anda/index.php/catalog/ARCERNNR>`_
-- **MEM.** (2023). Balance Energético Nacional 2023. `https://www.recursosyenergia.gob.ec/wp-content/uploads/2024/08/BEN_2023-cap_7.pdf <https://www.recursosyenergia.gob.ec/wp-content/uploads/2024/08/BEN_2023-cap_7.pdf>`_
-- **Gobierno de Ecuador.** (2019). Primera contribución determinada a nivel nacional para el acuerdo de París bajo la convención marco de Naciones Unidas sobre cambio climático. `https://unfccc.int/sites/default/files/NDC/2022-06/Primera%20NDC%20Ecuador.pdf <https://unfccc.int/sites/default/files/NDC/2022-06/Primera%20NDC%20Ecuador.pdf>`_
+- Inter American Development Bank. (2022). *Strategic Framework for Electric Mobility*.
+- INTRANT. (2023). Adapted from the *Plan Estratégico Nacional de Movilidad Eléctrica de República Dominicana*.
+- Vivid Economics. (2023). *Developing Jamaica’s long-term strategy for low emission and climate resilient development*.
+- Hall, D., & Lutsey, N. (2017). *Emerging best practices for electric vehicle charging infrastructure*.
+- International Monetary Fund (IMF). (2023). *Global Fossil Fuel Subsidies Remain Large: An Update Based on Country Level Estimate*.
+- Intergovernmental Panel on Climate Change. *Default values reported in the IPCC Guidelines, volume 2, chapter 2 Stationary Combustion*.

@@ -1,7 +1,7 @@
 ---------------------
-Referencias
+References
 ---------------------
-- **MAATE.** (n.d.). 5ta Comunicación Nacional.
-- **ARCONEL.** (2022). Estadística del Sector Eléctrico Ecuatoriano. `https://anda.inec.gob.ec/anda/index.php/catalog/ARCERNNR <https://anda.inec.gob.ec/anda/index.php/catalog/ARCERNNR>`_
-- **MEM.** (2023). Balance Energético Nacional 2023. `https://www.recursosyenergia.gob.ec/wp-content/uploads/2024/08/BEN_2023-cap_7.pdf <https://www.recursosyenergia.gob.ec/wp-content/uploads/2024/08/BEN_2023-cap_7.pdf>`_
-- **Gobierno de Ecuador.** (2019). Primera contribución determinada a nivel nacional para el acuerdo de París bajo la convención marco de Naciones Unidas sobre cambio climático. `https://unfccc.int/sites/default/files/NDC/2022-06/Primera%20NDC%20Ecuador.pdf <https://unfccc.int/sites/default/files/NDC/2022-06/Primera%20NDC%20Ecuador.pdf>`_
+- World Bank Group. (2020). *Beach Restoration and Coastal Management Guidelines: Jamaica*. Retrieved from https://openknowledge.worldbank.org/
+- Caribbean Development Bank. (2017). *Upgraded Flood Early Warning System for Rio Cobre Watershed - Jamaica*.
+- Brander, L. M., et al. (2024). *The value of ecosystem services from marine and coastal ecosystems: Global estimates*. Ecosystem Services, 66, 101606. https://doi.org/10.1016/j.ecoser.2024.101606
+- Thomas, R. (2024). *Economic values for ecosystem services: A global synthesis and way forward*. Ecosystem Services, 66, 101623. https://doi.org/10.1016/j.ecoser.2024.101623

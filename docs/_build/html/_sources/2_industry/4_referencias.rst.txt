@@ -1,7 +1,12 @@
 ---------------------
 Referencias
 ---------------------
-- **MAATE.** (n.d.). 5ta Comunicación Nacional.
-- **ARCONEL.** (2022). Estadística del Sector Eléctrico Ecuatoriano. `https://anda.inec.gob.ec/anda/index.php/catalog/ARCERNNR <https://anda.inec.gob.ec/anda/index.php/catalog/ARCERNNR>`_
-- **MEM.** (2023). Balance Energético Nacional 2023. `https://www.recursosyenergia.gob.ec/wp-content/uploads/2024/08/BEN_2023-cap_7.pdf <https://www.recursosyenergia.gob.ec/wp-content/uploads/2024/08/BEN_2023-cap_7.pdf>`_
-- **Gobierno de Ecuador.** (2019). Primera contribución determinada a nivel nacional para el acuerdo de París bajo la convención marco de Naciones Unidas sobre cambio climático. `https://unfccc.int/sites/default/files/NDC/2022-06/Primera%20NDC%20Ecuador.pdf <https://unfccc.int/sites/default/files/NDC/2022-06/Primera%20NDC%20Ecuador.pdf>`_
+- Ministry of Science, Energy and Technology (MSET), 2023. *National Energy Balances*.
+- Planning Institute of Jamaica (PIOJ), 2022. *Economic and Social Survey Jamaica*.
+- Ministry of Science, Energy and Technology (MSET), 2020. *2018 Jamaica Integrated Resource for Diesel, Fuel Oil and Natural Gas*.
+- Intergovernmental Panel on Climate Change. *Default values reported in the IPCC Guidelines, volume 2, chapter 2 Stationary Combustion*.
+- Vivid Economics. (2023). *Developing Jamaica’s long-term strategy for low emission and climate resilient development*.
+- Intergovernmental Panel on Climate Change (IPCC). (2019). *CO2 emissions from Cement Production*.
+- De Lena, E. et al. (2021). *Techno-economic analysis of calcium looping processes for low CO2 emission cement plants*.
+- Glenk et al. (2023). *Cost-Efficient Decarbonization of Portland Cement Production*.
+- Ministry of Economic Growth and Job Creation (MEGJC), 2022. *Jamaica’s Climate Action Enhancement Package (CAEP) Programme Synthesis Report*.

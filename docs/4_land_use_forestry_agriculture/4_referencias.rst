@@ -1,7 +1,22 @@
 ---------------------
-Referencias
+References
 ---------------------
-- **MAATE.** (n.d.). 5ta Comunicación Nacional.
-- **ARCONEL.** (2022). Estadística del Sector Eléctrico Ecuatoriano. `https://anda.inec.gob.ec/anda/index.php/catalog/ARCERNNR <https://anda.inec.gob.ec/anda/index.php/catalog/ARCERNNR>`_
-- **MEM.** (2023). Balance Energético Nacional 2023. `https://www.recursosyenergia.gob.ec/wp-content/uploads/2024/08/BEN_2023-cap_7.pdf <https://www.recursosyenergia.gob.ec/wp-content/uploads/2024/08/BEN_2023-cap_7.pdf>`_
-- **Gobierno de Ecuador.** (2019). Primera contribución determinada a nivel nacional para el acuerdo de París bajo la convención marco de Naciones Unidas sobre cambio climático. `https://unfccc.int/sites/default/files/NDC/2022-06/Primera%20NDC%20Ecuador.pdf <https://unfccc.int/sites/default/files/NDC/2022-06/Primera%20NDC%20Ecuador.pdf>`_
+- Planning Institute of Jamaica (PIOJ). (2022b). *Economic and Social Survey Jamaica 2022*.
+- Ministry of Science, Energy and Technology (MSET). (2023). *National Energy Balances*.
+- Ministry of Science, Energy and Technology (MSET). (2020). *2018 Jamaica Integrated Resource for Diesel, Fuel Oil, and Natural Gas*.
+- Intergovernmental Panel on Climate Change (IPCC). (2019). *CO2 emissions from Cement Production*.
+- Intergovernmental Panel on Climate Change. *Default values reported in the IPCC Guidelines, volume 2, chapter 2 Stationary Combustion*.
+- Vivid Economics. (2023). *Developing Jamaica’s long-term strategy for low emission and climate resilient development*.
+- World Bank. (2023). *Trends in Solid Waste Management* [Accessed: 2023-11-28]. https://datatopics.worldbank.org/what-a-waste/trends_in_solid_waste_management.html
+- Ministry of Water, Land, Environment and Climate Change. (2012). *Jamaica’s Second Biennial Update Report (BUR), 2012*.
+- National Environment and Planning Agency (NEPA). (2021). *Assessment of Land Use Change in Jamaica*.
+- Climate Change Division, Ministry of Economic Growth and Job Creation. (2021). *Assessment of Jamaica’s Climate Change Mitigation Potential and Implications for its Updated NDC*.
+- Forestry Department of Jamaica. (n.d.). *National Forest Management Plan*.
+- Ministry of Agriculture, Fisheries and Mining. (n.d.). *Annual Agricultural Report*.
+- Statistical Institute of Jamaica (STATIN). (n.d.). *Jamaica Statistical Digest*.
+- International Trade Centre (ITC). (n.d.). *Trade Maps*. https://www.trademap.org/
+- Planning Institute of Jamaica (PIOJ). (2009). *Vision 2030 Jamaica: National Development Plan Population Sector Plan*.
+- Ministry of Agriculture of the Dominican Republic. (n.d.). *Agricultural Statistics of the Dominican Republic*.
+- The Banana Board Jamaica. (n.d.). *Annual Reports and Production Data*.
+- Jamaica Pig Farmers Association (JPFA), PigTrop Website, The Poultry Site, The Jamaican Dairy Development. (n.d.). *Livestock Sector Data Sources*.
+- Selina Wamucii Platform and Central Ganadera S.A Colombia. (n.d.). *Agricultural Trade Data*.
