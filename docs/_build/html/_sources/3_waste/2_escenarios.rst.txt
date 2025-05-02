@@ -15,10 +15,10 @@ data for full consideration, particularly regarding waste-to-energy projects and
 
 The actions modeled in the LTS scenario are:
 
-  • 50% reduction of organic matter in landfills relative to 2020 levels, achieved through centralized composting near landfills. This requires households to separate organic and inorganic waste, with separate collection systems, and compost to be made available to potential users.
+**Waste management**
+  •	50% reduction of organic matter in landfills relative to 2020 levels via composting 
 
-  • Recycling of 50% of domestic wastewater by 2035, supporting environmental protection and public health.
 
-  • Sanitary landfills deployed, and controlled landfills closed, enabling effective composting operations.
-  
-  • Additional actions, such as waste-to-energy projects and solid waste management regulations, are identified as qualitative policy levers and need more data for quantification and modeling.
+**Reduce the adverse impacts of waste on the environment and public safety**
+  •	By 2035, 50% of domestic wastewater will be recycled
+  •	Sanitary landfills deployed, and controlled landfills closed, enabling effective composting operations.

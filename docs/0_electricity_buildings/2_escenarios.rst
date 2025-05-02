@@ -12,18 +12,37 @@ support intermittent renewables. Long-Term Strategy (LTS) Actions.
 
 The actions modelled on the LTS scenario are:
 
-• Deploy Intermittent Renewables up until 2038, the strategy aligns with the 2018 Jamaica Integrated Resource Plan.
-• By 2050, the energy mix is projected to consist entirely of intermittent renewables.
-• Reduce System Losses: Transmission and distribution (T&D) losses will be reduced to 8% by 2050.
-• By 2038, 540 MW of battery energy storage systems (BESS) will be installed. 
-• By 2050,BESS will account for 22% of the total installed capacity of power plants.
-• Energy Demand Growth: Growth rates are according to Jamaica’s GDP.
-• Cookers Electrification
-    • By 2035, kerosene, wood, and charcoal stoves will be replaced with electrical options.
-    • By 2050, no new LPG cookers will be in the market, and their use will be reduced to 9% of the BAU scenario.
-• Energy Efficiency in Existing Buildings
-    •	By 2030, solar water heating will replace 2% of traditional heaters, and 3% by 2050, relative to BAU.
-    • In 2030, replace 100% of electric lighting with LED lamps (1,177,626 units), or equivalents, in residential, public, and commercial buildings.
-    • In 2040, replace electrical units in existing buildings, relative to 2021:
-        • 1,178,797 refrigeration units
-        • 17,925 air conditioning (AC) units.
+**Deployment of Renewable Energies**
+    * Until 2038, the strategy aligns with the 2018 Jamaica Integrated Resource Plan.
+    * By 2050, the energy mix is projected to consist entirely of intermittent renewables.
+
+
+**Systems losses**
+    * Transmission and distribution lossess will be reduced by 8% by 2050.
+
+
+
+**Energy Demand Growth**
+    * According to Jamaica´s GDP
+
+
+
+**Energy storage**
+    * By 2038, 540 MW of battery energy storage systems (BEES) will be installed.
+    * BESS will account for 22 % of the total installed capacity of power plants.
+
+
+
+**Cookers electrification**
+    * In 2035, kerosene, wood and charcoal stoves will be replaced with electrical options.
+    * By 2050, no new LPG cookers will be in the market, and the amount in use will be reduced to 9 % of the BAU scenario.
+
+
+
+**Energy efficiency**
+    * Use of solar water heating will be reduced 2 % of traditional heaters by 2030, and 3 % by 2050.
+    * In 2030, replace 100 % of electric lighting with LED lamps.
+    * In 2040, replace electrical units in existing buildings, relative to 2021:  
+        * 1 ,178 ,797 refrigeration units. 
+        * 17 ,925 AC units.
+

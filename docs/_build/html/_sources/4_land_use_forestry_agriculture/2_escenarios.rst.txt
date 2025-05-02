@@ -11,15 +11,16 @@ aligning with broader environmental goals.
 
 The actions modeled in the LTS scenario are:
 
-  • Reduce deforestation by 30% from 2020 levels, curbing the loss of forested areas.
+**Deforestation**
+  •	Reduction of deforestation by 30% from 2020 levels
+  •	Control deforestation rates to maintain “No-net-loss” forest cover
 
-  • Achieve No-net-loss of forest cover by maintaining a balance between deforestation and reforestation.
 
-  • Increase forest cover by 5% from 2020 levels, contributing to carbon sequestration and biodiversity protection.
+**Forest cover**
+  •	Increase of 5% forest cover from 2020 levels 
+  •	Increase of 3% of forest land cover by 2050
+  •	Increase 4,000 hectares of mangrove cover by 2050
 
-  • Achieve an additional 3% increase in forest land cover by 2050, reinforcing long-term sustainability.
-
-  • Restore 4,000 hectares of mangroves by 2050, enhancing coastal protection and ecological diversity.
 
 
 For the Agricultural and Livestock sector the LTS scenario promotes sustainable land management
@@ -29,13 +30,14 @@ greenhouse gas emissions and enhance productivity.
 
 The actions modeled in the LTS scenario are:
 
-  • Implement agroforestry systems on 10% of cropland (focused on coffee and cacao) by 2050.
+**Agroforestry**
+  •	Implementation of agroforestry systems in 10% of cropland2 for coffee and cacao by 2050
 
-  • Achieve a 14% reduction in livestock emissions by 2030 through:
 
-    • Rotational pastures, reducing the enteric fermentation emission factor by 6%.
+**Sustainable livestock**
+  •	Reduction of 14% of livestock emissions through sustainable practices like rotational pastures rotational pastures, livestock management practices and disease prevention by 2030
 
-    • Improved livestock management and disease prevention, contributing an additional 3.45% reduction in enteric fermentation emissions and increasing productivity by 8%.
 
-  • Reduce methane emissions by 20% from 2020 levels by 2030 through anaerobic digestion of manure.
+**Manure management**
+  •	Reduction of 20% of methane emissions from 2020 levels due to anaerobic digestion of manure  by 2030
 
