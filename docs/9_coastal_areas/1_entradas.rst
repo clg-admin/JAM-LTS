@@ -3,12 +3,12 @@ Cost and Benefit Data
 ===================================
 
 
-This section presents **Table 15**, which summarizes the costs and benefits related
+This section presents **Table 20**, which summarizes the costs and benefits related
 to ecosystem-based coastal management and monitoring systems in Jamaica. The data include restoration
 of coral reefs and mangroves, as well as enhancements to flood early warning systems. These actions
 contribute to climate resilience by protecting coastal areas, improving biodiversity, and preventing disaster-related losses.
 
-.. list-table:: **Table 15.** Costs and Benefits for Coastal Restoration and Monitoring Systems**
+.. list-table:: **Table 20.** Costs and Benefits for Coastal Restoration and Monitoring Systems**
    :widths: 40 60
    :header-rows: 1
 

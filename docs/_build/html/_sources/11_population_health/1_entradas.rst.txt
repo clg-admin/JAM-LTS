@@ -3,9 +3,9 @@ Cost and Benefit Data
 ===================================
 
 
-**Table 17** details various cost and benefit estimates for actions aimed at improving population health, sanitation, disaster response, and public infrastructure in Jamaica as part of the Long-Term Strategy. These data points support strategic planning in reducing vulnerability, improving public health, and increasing resilience through targeted investments and policy measures.
+**Table 24** details various cost and benefit estimates for actions aimed at improving population health, sanitation, disaster response, and public infrastructure in Jamaica as part of the Long-Term Strategy. These data points support strategic planning in reducing vulnerability, improving public health, and increasing resilience through targeted investments and policy measures.
 
-.. list-table:: **Table 17.** Costs and Benefits for Health and Population Sector Interventions
+.. list-table:: **Table 24.** Costs and Benefits for Health and Population Sector Interventions
    :widths: 40 60
    :header-rows: 1
 

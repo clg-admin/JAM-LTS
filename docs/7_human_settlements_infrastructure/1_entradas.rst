@@ -2,7 +2,7 @@
 Cost and Benefit Data
 ===================================
 
- **Table 13** presents key data points and their respective sources used in
+ **Table 16** presents key data points and their respective sources used in
  the analysis of adaptation strategies across sectors. These data encompass cost estimations for infrastructure,
  ecosystem services valuation, and benefits derived from avoided losses due to climate adaptation measures. The sources
  include governmental reports, international studies, and technical assessments, ensuring a comprehensive foundation for
@@ -10,7 +10,7 @@ Cost and Benefit Data
 
 
 
-.. list-table:: **Table 13. Data used to model Human Settlements and Infrastructure Sector.**
+.. list-table:: **Table 16.** Data used to model Human Settlements and Infrastructure Sector.
    :widths: 40 60
    :header-rows: 1
 

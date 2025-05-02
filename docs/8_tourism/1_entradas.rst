@@ -3,12 +3,12 @@ Cost and Benefit Data
 ===================================
 
 
-This section presents **Table 14**, which summarizes the costs and benefits associated with actions
+This section presents **Table 18**, which summarizes the costs and benefits associated with actions
 in fisheries, eco-tourism, and protected areas as outlined in Jamaica’s strategic plans.
 These data points provide essential inputs for assessing the economic implications of conservation and
 tourism-based adaptation strategies under the Long-Term Strategy (LTS).
 
-.. list-table:: **Table 14. Costs and Benefits for Fisheries, Tourism, and Protected Areas**
+.. list-table:: **Table 18. Costs and Benefits for Fisheries, Tourism, and Protected Areas**
    :widths: 40 60
    :header-rows: 1
 

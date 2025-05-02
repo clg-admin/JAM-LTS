@@ -23,9 +23,9 @@ A GitHub repository generally has the following structure:
 
 **How to Explore Files in GitHub**
 
-- Use the Search Bar – On the repository page, use the search bar to find specific files or directories.
+    - Use the Search Bar – On the repository page, use the search bar to find specific files or directories.
 
-- View Change History – Each file has a change history accessible from the "History" tab or the # Commits option, under the green <> Code button.
+    - View Change History – Each file has a change history accessible from the "History" tab or the # Commits option, under the green <> Code button.
 
-- Download the Code – You can download the repository as a .zip file by left-clicking the green <> Code button and then left-clicking the Download ZIP option. You can also clone it using the following command via Git Bash:
-git clone https://github.com/seas-yoselyn/JAM-LTS.git
+    - Download the Code – You can download the repository as a .zip file by left-clicking the green <> Code button and then left-clicking the Download ZIP option. You can also clone it using the following command via Git Bash:
+    git clone https://github.com/clg-admin/JAM-LTS

@@ -2,23 +2,102 @@
 Specific Adaptation Strategies
 ===================================
 
-The LTS for the tourism sector envisions a climate-resilient industry driven by ecosystem-based solutions, disaster risk management, and sustainable tourism planning. The strategy focuses on diversifying tourism offerings, protecting coastal ecosystems, and enforcing sustainable practices while encouraging economic diversification to minimize climate-related risks. These efforts aim to balance environmental conservation with economic development by safeguarding natural assets critical to tourism.
+To support the Long-Term Strategy (LTS) objectives for coastal resilience, sustainable tourism, watershed protection, and protected areas management,
+Jamaica identified a wide range of adaptation strategies. These strategies target five key areas: engineering solutions for beach protection, reducing
+overfishing and illegal fishing, diversifying eco-tourism, implementing nature-based solutions (NbS) for coastal zones, and improving land and watershed
+management through green infrastructure. Specific actions include scaling up the use of ShoreLock for beach stabilization, expanding marine sanctuaries,
+training aquaculture farmers, enhancing enforcement, and upgrading heritage sites. Other interventions aim to mainstream NbS like beach nourishment and coral
+reef restoration, though many of these currently lack quantified targets. A comprehensive suite of green infrastructure practices has also been proposed to reduce
+runoff and sedimentation, such as bioretention systems, permeable pavements, and restored wetlands. In parallel, Jamaica is strengthening its protected areas system
+through improved governance, awareness campaigns, capacity building, and stakeholder engagement. These strategies are supported by national plans and policies, including
+the Strategic Business Plan for Tourism and Fisheries and the Overarching Policy for Jamaica’s Protected Areas System.
 
-The specific actions modeled under the LTS scenario are:
+.. list-table:: **Table 17.** Adaptation strategies with defined targets
+   :header-rows: 1
+   :widths: 25 40 20 25
+   :class: longtable
 
-  •	Use ShoreLock technology to improve coastal protection for 750 meters every five years.
-  •	Increase fish sanctuary coverage to 20,000 hectares by 2026, with 4,200 hectares per year from 2025 to 2026, and hold 2 consultations in 2024.
-  •	Train 34 farmers per year in aquaculture from 2023 to 2026, and 45 farmers per year from 2026 to 2027.
-  •	Monitor 324 fishing sites annually from 2023 to 2027 to enhance enforcement.
-  •	Upgrade 3 eco-tourism destinations per year from 2025 to 2046, including installing 26 storyboards and 12 directional signs at heritage sites.
-  •	Develop a Tourism Strategy and Action Plan every 10 years, from 2025 to 2045.
-  •	Create a Tourism Destination Development and Management Plan for 3 eco-tourism destinations per year, from 2025 to 2046.
-  •	Develop a comprehensive private sector strategy for protected areas management by 2025.
-  •	Revise Jamaica’s National Biodiversity Strategy and Action Plan (NBSAP) by 2025, integrating biodiversity targets.
-  •	Integrate climate adaptation measures into 10 protected area plans over 10 years, from 2025 to 2035.
-  •	Develop the National Mangrove and Swamp Forest Management Plan in 2025 and implement it from 2026 to 2035.
-  •	Conduct 30 capacity building programs over 10 years, from 2025 to 2035 (3 programs per year).
-  •	Implement 10 public education programs over 5 years, from 2025 to 2030 (2 per year).
-  •	Conduct 2 marketing research studies each year from 2026 to 2027 to promote awareness of protected areas.
-  •	Allocate US$157,500 over 5 years (US$31,500 per year from 2025 to 2030) to maintain the National Protected Area Database.
+   * - **LTS action**
+     - **Specific strategy**
+     - **Target**
+     - **Source**
 
+   * - Engineering solutions to protect beaches
+     - Increase use of ShoreLock
+     - 750 m every five years
+     - ShoreLock test results in The Gleaner
+
+   * - Reduction in overfishing and illegal fishing practices
+     - Define fish sanctuaries (hectares of coastal fishery water)
+     - 20,000 hectares by 2026 and 2 consultations in 2024
+     - Strategic Business Plan. National Fisheries Authority
+
+   * - Reduction in overfishing and illegal fishing practices
+     - Farmers trained in aquaculture
+     - 34 farmers/year (2023–2026), 45 (2026–2027)
+     - Strategic Business Plan. National Fisheries Authority
+
+   * - Reduction in overfishing and illegal fishing practices
+     - Robust monitoring and enforcement
+     - Monitor 324 sites annually (2023–2027)
+     - Strategic Business Plan. National Fisheries Authority
+
+   * - Diversify and invest in tourism
+     - Install 26 storyboards and 12 directional signs
+     - Upgrade 3 eco-tourism destinations each year (2025–2046)
+     - Strategic Business Plan. Ministry of Tourism, Jamaican Heritage Sites
+
+   * - Diversify and invest in tourism
+     - Upgrade of Heritage Sites and Attractions
+     - Upgrade 3 eco-tourism destinations each year (2025–2046)
+     - Strategic Business Plan. Ministry of Tourism, Jamaican Heritage Sites
+
+   * - Diversify and invest in tourism
+     - Develop a Tourism Strategy and Action Plan
+     - Every 10 years (2025–2045)
+     - Strategic Business Plan. Ministry of Tourism
+
+   * - Diversify and invest in tourism
+     - Develop a Tourism Destination Development and Management Plan
+     - 3 eco-tourism destinations per year (2025–2046)
+     - Strategic Business Plan. Ministry of Tourism
+
+   * - Land management to reduce runoff
+     - Governance mechanism for protected areas
+     - 1 strategy in 1 year (2025)
+     - Overarching Policy for Jamaica’s Protected Areas System
+
+   * - Land management to reduce runoff
+     - Update of National Biodiversity Strategy and Action Plan (NBSAP)
+     - 1 plan in 1 year (2025)
+     - Overarching Policy for Jamaica’s Protected Areas System
+
+   * - Strengthen protected areas (PA)
+     - Integrate climate adaptation in PA planning
+     - 10 plans with adaptation in 10 years (2025–2035)
+     - Overarching Policy for Jamaica’s Protected Areas System
+
+   * - Strengthen protected areas (PA)
+     - National Mangrove and Swamp Forest Management Plan
+     - 1 plan in 2025, implemented over 9 years
+     - Overarching Policy for Jamaica’s Protected Areas System
+
+   * - Strengthen protected areas (PA)
+     - Capacity building programs
+     - 30 programs in 10 years (3/year)
+     - Overarching Policy for Jamaica’s Protected Areas System
+
+   * - Strengthen protected areas (PA)
+     - Public awareness strategies
+     - 10 education programs in 5 years (2/year)
+     - Overarching Policy for Jamaica’s Protected Areas System
+
+   * - Strengthen protected areas (PA)
+     - Research for marketing strategies
+     - 2 studies per year (2026–2027)
+     - Overarching Policy for Jamaica’s Protected Areas System
+
+   * - Strengthen protected areas (PA)
+     - Stakeholder involvement in PA management
+     - 157,500 USD total; 31,500/year (2025–2030)
+     - Overarching Policy for Jamaica’s Protected Areas System

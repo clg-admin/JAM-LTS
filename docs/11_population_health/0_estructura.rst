@@ -9,10 +9,10 @@ The LTS outlines specific actions with detailed strategies aimed at improving wa
 In alignment with the objectives established in the Long-Term Strategy (LTS), we identified a set of priority actions to enhance
 climate resilience and adaptive capacity across key sectors. For each of these actions, we developed corresponding adaptation strategies
 that are context-specific and implementation-ready. These strategies are paired with clear, measurable targets to ensure progress can be tracked effectively
-and aligned with national development priorities. The following sections present these actions, strategies, and targets, along with their sources of justification or funding. **Table 11**
+and aligned with national development priorities. The following sections present these actions, strategies, and targets, along with their sources of justification or funding. **Table 23**
 shows the strategies for the sector. 
 
-.. list-table:: **Table 11.** Adaptation strategies across sectors
+.. list-table:: **Table 23.** Adaptation strategies across sectors
    :header-rows: 1
    :widths: 28 40 20 32
    :class: longtable

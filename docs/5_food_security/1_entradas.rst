@@ -2,13 +2,13 @@
 Cost and Benefit Data
 ===================================
 
- **Table 11** presents key data points and sources used in the evaluation of climate-smart agriculture (CSA). These data support the assessment of labor costs, benefits,
+ **Table 12** presents key data points and sources used in the evaluation of climate-smart agriculture (CSA). These data support the assessment of labor costs, benefits,
  and technical parameters associated with various CSA interventions, such as agroforestry,
  contour ditches, smart irrigation, and improved crop varieties. The values are derived from reputable national and
  international studies, with contextual adaptations
 
 
-.. list-table:: **Table 11.** Key Data Points and Sources for Climate-Smart Agriculture
+.. list-table:: **Table 12.** Key Data Points and Sources for Climate-Smart Agriculture
    :widths: 50 50
    :header-rows: 1
 

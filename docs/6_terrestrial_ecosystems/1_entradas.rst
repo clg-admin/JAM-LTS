@@ -2,12 +2,12 @@
 Cost and Benefit Data
 ===================================
 
- **Table 12** provides detailed information on the various data points used to assess
+ **Table 14** provides detailed information on the various data points used to assess
  the economic and environmental impacts of forest management, reforestation, and conservation activities. This information serves
  as a foundation for evaluating the cost-effectiveness and broader implications of implementing Jamaica’s long-term forest sector strategies.
 
 
-.. list-table:: **Table 12. Data Points and Sources**
+.. list-table:: **Table 14.** Data Points and Sources
    :widths: 40 60
    :header-rows: 1
 

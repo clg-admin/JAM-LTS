@@ -3,9 +3,9 @@ Cost and Benefit Data
 ===================================
 
 
-**Table 16** summarizes the estimated costs and benefits associated with climate-resilient building practices aimed at improving housing infrastructure in Jamaica. These interventions target both structural enhancements for disaster resilience and water efficiency measures to promote sustainable living environments. The data support decisions on elevating buildings and equipment, improving water management, and increasing resistance to extreme weather events.
+**Table 22** summarizes the estimated costs and benefits associated with climate-resilient building practices aimed at improving housing infrastructure in Jamaica. These interventions target both structural enhancements for disaster resilience and water efficiency measures to promote sustainable living environments. The data support decisions on elevating buildings and equipment, improving water management, and increasing resistance to extreme weather events.
 
-.. list-table:: **Table 16.** Costs and Benefits of Resilient Building Practices
+.. list-table:: **Table 22.** Costs and Benefits of Resilient Building Practices
    :widths: 40 60
    :header-rows: 1
 
