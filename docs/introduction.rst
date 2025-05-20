@@ -26,23 +26,30 @@ To facilitate navigation, the documentation follows the following file structure
     │── license.rst                # Licensing information
     │── authors.rst                # Credits and authors
     │
-    ├── 0_electricity_buildings/   # Electricity and Buildings sector
-    │   ├── 0_estructura.rst
-    │   ├── 1_entradas.rst
-    │   ├── 2_escenarios.rst
-    │   ├── 3_resultados.rst
-    │   ├── 4_referencias.rst
+    ├── mitigation/                # Mitigation model
+    │   ├── 0_electricity_buildings   # Electricity and Buildings sector
+    │       ├── 0_estructura.rst
+    │       ├── 1_entradas.rst
+    │       ├── 2_escenarios.rst
+    │       ├── 3_resultados.rst
+    │       ├── 4_referencias.rst
     │
-    ├── 1_transport/               # Transport sector
-    ├── 2_industry/                # Industry sector
-    ├── 3_waste/                   # Waste sector
-    ├── 4_land_use_forestry_agriculture/  # Land-use change, forestry, and agriculture
-    ├── 5_food_security/           # Food Security sector
-    ├── 6_terrestrial_ecosystems/  # Terrestrial Ecosystems
-    ├── 7_human_settlements_infrastructure/  # Human Settlements and Critical Infrastructure
-    ├── 8_tourism/                 # Tourism sector
-    ├── 9_coastal_areas/           # Coastal Areas
-    ├── 10_culture_heritage/       # Culture and Heritage
-    ├── 11_population_health/      # Population and Health
+    │    ├── 1_transport/               # Transport sector
+    │    ├── 2_industry/                # Industry sector
+    │   ├── 3_waste/                   # Waste sector
+    │    ├── 4_land_use_forestry_agriculture/  # Land-use change, forestry, and agriculture
+    ├── adaptation/                # Adaptation model        
+    │    ├── 5_food_security/           # Food Security sector
+    │       ├── 0_estructura.rst
+    │       ├── 1_entradas.rst
+    │       ├── 2_escenarios.rst
+    │       ├── 3_resultados.rst
+    │       ├── 4_referencias.rst
+    │    ├── 6_terrestrial_ecosystems/  # Terrestrial Ecosystems
+    │    ├── 7_human_settlements_infrastructure/  # Human Settlements and Critical Infrastructure
+    │    ├── 8_tourism/                 # Tourism sector
+    │    ├── 9_coastal_areas/           # Coastal Areas
+    │    ├── 10_culture_heritage/       # Culture and Heritage
+    │    ├── 11_population_health/      # Population and Health
 
 

@@ -25,18 +25,8 @@ Documentation Structure
    Introduction <introduction>
    Methodology <methodology>
    National Results <national_results>
-   Electricity and Buildings <0_electricity_buildings/index>
-   Transport <1_transport/index>
-   Industry <2_industry/index>
-   Waste <3_waste/index>
-   Land-use Change, Forestry and Agriculture <4_land_use_forestry_agriculture/index>
-   Food Security <5_food_security/index>
-   Terrestrial Ecosystems <6_terrestrial_ecosystems/index>
-   Human Settlements and Critical Infrastructure <7_human_settlements_infrastructure/index>
-   Tourism <8_tourism/index>
-   Coastal Areas <9_coastal_areas/index>
-   Culture and Heritage <10_culture_heritage/index>
-   Population and Health <11_population_health/index>
+   Mitigation Model <1_mitigation/index>
+   Adaptation Model <0_adaptation/index>
    Model Use <model_use>
    GitHub Navigation <github_navigation>
    License <license>

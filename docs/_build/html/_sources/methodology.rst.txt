@@ -26,7 +26,11 @@ Approach for Mitigation Actions
 The methodology used to develop the sectoral models is based on:
 
 1. **Development of the XLRM Matrix**  
-   An initial XLRM matrix was created to identify uncertainties and key variables affecting mitigation outcomes.
+   An initial XLRM matrix was created to identify uncertainties and key variables affecting mitigation outcomes. An XLRM matrix is a compact mapping tool from
+   Robust Decision-Making that organises four elements side by side: exogenous uncertainties (X) that lie outside our control, the policy levers (L) we can actively
+   adjust, the system responses (R) the model is expected to exhibit when those levers are exercised under different uncertainties, and the performance metrics (M) used
+   to judge whether the outcomes are satisfactory.
+
 
 2. **Construction of Baseline Scenarios**  
    Two baseline scenarios were developed:
